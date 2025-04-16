@@ -13,13 +13,6 @@ const uniqueTags = [...new Set(allPosts.map((post) => post.frontmatter.tags).fla
     <a class="tagslist__link" href="/posts/">
       <li class="tagslist__item">Todos los posts</li>
     </a>
-    {
-      uniqueTags.map((tag) => (
-        <a class="tagslist__link" href={"/tags/" + tag}>
-          <li class="tagslist__item">{tag}</li>
-        </a>
-      ))
-    }
   </ul>
 </BaseLayout>
 

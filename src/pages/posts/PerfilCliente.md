@@ -2,7 +2,6 @@
 layout: ../../layouts/MarkDownPostLayout.astro
 title: "Perfil del cliente"
 order: 2
-tags: [Aer]
 ---
 
 ## Perfil del Cliente

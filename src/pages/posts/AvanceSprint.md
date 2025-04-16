@@ -1,11 +1,7 @@
 ---
 layout: ../../layouts/MarkDownPostLayout.astro
 title: "Avances por sprint"
-pubDate: 2023-11-24
 order: 6
-description: "Resultados de la investigación."
-author: "Grupo de investigación en Vigilancia Tecnológica"
-tags: [Investigación]
 ---
 
 ### En Construcción

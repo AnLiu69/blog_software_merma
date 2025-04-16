@@ -2,7 +2,6 @@
 layout: ../../layouts/MarkDownPostLayout.astro
 title: "Visión general del proyecto"
 order: 1
-tags: [Investigación]
 ---
 
 El presente proyecto tiene como objetivo el desarrollo de un software de gestión de merma para el área de producción de una imprenta. Esta herramienta permitirá registrar de forma sistemática y digital cada etapa del proceso productivo, abarcando desde la impresión hasta los acabados finales.

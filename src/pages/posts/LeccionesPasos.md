@@ -1,11 +1,7 @@
 ---
 layout: ../../layouts/MarkDownPostLayout.astro
 title: "Lecciones aprendidas"
-pubDate: 2023-11-24
 order: 7
-description: "Conclusiones de la investigación."
-author: "Grupo de investigación en Vigilancia Tecnológica"
-tags: [Investigación]
 ---
 
 ### En Construcción

@@ -1,33 +1,41 @@
 ---
 layout: ../../layouts/MarkDownPostLayout.astro
 title: "Marco de trabajo"
-pubDate: 2023-11-24
 order: 4
-description: "La metodología del proyecto."
-author: "Grupo de investigación en Vigilancia Tecnológica"
-tags: [Investigación]
 ---
 
-#### Tipo de estudio:
+## Marco de Trabajo
 
-- Documental
+El desarrollo del sistema de gestión de merma se está llevando a cabo utilizando el marco de trabajo **Scrum**, una metodología ágil enfocada en la entrega incremental y continua de valor. Este enfoque permite adaptarse a cambios, fomentar la colaboración y mejorar progresivamente a través de ciclos cortos llamados _Sprints_.
 
-#### Alcance de la investigación:
 
-- La investigación se centra en los últimos 11 años desde 2012 hasta el año 2023.
+#### Roles principales en Scrum
+- **Product Owner:** Define las prioridades del proyecto y gestiona el _Product Backlog_; en este caso será Hubert Jared Jimenez Quispe
+- **Scrum Master:** Facilita el proceso, remueve obstáculos y asegura el correcto uso del marco de trabajo; en este caso será Rodrigo Melecio Flores Mayta
+- **Equipo de desarrollo:** Encargado de diseñar, desarrollar, probar y entregar el incremento del producto; en este caso serán Abraham Anibal García Chavez y Claudio Estefano Ramon Torres
 
-#### Recopilación de información:
+#### Eventos claves
+- **Sprint Planning:** Se define qué se desarrollará en el sprint, en nuestro caso realizamos el planeamiento para cada día siguiente
+- **Daily Scrum:** Reunión diaria para sincronizar el trabajo y detectar bloqueos; para poder desarrollar este eventio se realizan meets con el equipo en los horarios disponibles para todos
+- **Sprint Review:** Se presenta lo trabajado al final del sprint, en nuestro caso realizamos el review para cada día 
+- **Sprint Retrospective:** Se identifican mejoras en el proceso para el próximo sprint, en nuestro caso realizamos el retrospective para cada día 
 
-- Se llevó a cabo mediante una exhaustiva búsqueda en múltiples fuentes académicas y científicas además se emplearon bases de datos reconocidas a nivel mundial, como Scopus y Scielo, con el objetivo de obtener una amplia visión de literatura especializada.
+---
 
-- Se seleccionaron cuidadosamente los términos de búsqueda relacionados con la vigilancia tecnológica y sus beneficios en el mundo empresarial, se aplica rigurosamente un conjunto de criterios de inclusión y exclusión para evaluar las fuentes identificadas durante la búsqueda. Esto asegurará que solo las fuentes pertinentes y de alta calidad se incluyen en el análisis, una vez seleccionadas las fuentes, se procede con la extracción de datos clave relacionados con los beneficios de la vigilancia tecnológica y ejemplos concretos de su implementación en organizaciones.
+### Aplicación en el Proyecto
 
-#### Limitaciones:
+En el desarrollo del software de gestión de merma, Scrum se aplica con el siguiente enfoque:
 
-- Posible sesgo en la selección de fuentes: Aunque se menciona que se aplicarán criterios de inclusión y exclusión, existe la posibilidad de que, inconscientemente, los investigadores seleccionan fuentes que respalden una perspectiva particular. Esto podría introducir un sesgo en los resultados si no se realiza una selección imparcial de las fuentes.
+- **Duración de los Sprints:** 3 semanas
+- **Herramienta de gestión:** [Jira](https://www.atlassian.com/software/jira)
+- **Gestión de tareas:** A través de un tablero Kanban/Scrum con historias de usuario y tareas.
+- **Revisión de avances:** Al final de cada sprint, se realizan reuniones para ver el trabajo realizado y su aprobación
+- **Retrospectivas:** Se documentan las lecciones aprendidas para aplicar mejoras continuas.
 
-- Dependencia de bases de datos específicas: Aunque se utilizan bases de datos reconocidas a nivel mundial, la elección de Scopus y Scielo podría limitar la diversidad de las fuentes, ya que cada base de datos tiene su propia cobertura y enfoque. Podría haber fuentes relevantes que no estén disponibles en estas bases de datos.
+---
 
-- Riesgo de falta de diversidad de perspectivas: Si las fuentes seleccionadas convergen en una sola idea, existe la posibilidad de que no se estén teniendo en cuenta perspectivas divergentes o críticas. Esto podría limitar la profundidad del análisis y la comprensión completa de la vigilancia tecnológica.
-
-- Calidad variable de las fuentes: Aunque se menciona que se seleccionarán fuentes de alta calidad, la calidad de la información puede variar entre las fuentes. Es importante realizar una evaluación detallada de la calidad de cada fuente para evitar la inclusión de información errónea o poco confiable.
+### Artefactos utilizados
+- **Product Backlog:** Lista priorizada de funcionalidades del sistema (historias de usuario).
+- **Sprint Backlog:** Conjunto de tareas seleccionadas para desarrollar en el sprint actual.
+- **Incremento:** Versión funcional del sistema al finalizar cada sprint.
+---
