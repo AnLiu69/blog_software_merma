@@ -125,7 +125,7 @@ Gracias a la evaluación de los miembros del equipo en base a los criterios de s
 
 - **Equipo principal de Scrum**  
   ##  
-  Contenido
+  Cómo sabemos, ya se han escogido todos los roles en procesos anteriores, el rol de Product Owner lo ocupa Huber Jared Jimenez Quispe, el rol de Scrum Master lo ocupa Rodrigo Melecio Flores Mayta y por último el rol del equipo Scrum lo ocupan Abraham Anibal Garcia Chavez y Claudio Estefano Ramon Torres
 ##  
 - **Visión del proyecto**  
   ##  
