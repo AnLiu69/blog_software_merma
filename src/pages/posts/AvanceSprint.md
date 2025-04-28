@@ -47,20 +47,20 @@ El proyecto consiste en desarrollar un software de gestión de merma que permita
 
 - **Criterios de selección**  
   - ✓ Habilidades para resolver problemas
-  ##
-  Se valoró que tenga un conocimiento amplio del marco de trabajo de Scrum, ganas y facultades de resolver los problemas que surjan en el desarrollo del problema.
+    ##
+    Se valoró que tenga un conocimiento amplio del marco de trabajo de Scrum, ganas y facultades de resolver los problemas que surjan en el desarrollo del problema.
   ##
   - ✓ Disponibilidad
-  ##
-  Se valoró que esté disponible a través de varios medios de comunicación para que el equipo Scrum le pueda consultar cualquier duda o inconveniente que tengan, llamadas, correos, o hasta presencialmente si es posible. Asimismo deberia tener la disponibilidad de gestionar o cuadrar las reuniones correspondientes con el equipo.
+    ##
+    Se valoró que esté disponible a través de varios medios de comunicación para que el equipo Scrum le pueda consultar cualquier duda o inconveniente que tengan, llamadas, correos, o hasta presencialmente si es posible. Asimismo deberia tener la disponibilidad de gestionar o cuadrar las reuniones correspondientes con el equipo.
   ##
   - ✓ Compromiso
-  ##
-  Se valoró que esté dispuesto a asegurar un ambiente propicio para el equipo Scrum, así garantizando la entrega exitosa de proyectos Scrum
+    ##
+    Se valoró que esté dispuesto a asegurar un ambiente propicio para el equipo Scrum, así garantizando la entrega exitosa de proyectos Scrum
   ##
   - ✓ Estilo de liderazgo de apoyo
-  ##
-  Se valoró que cuente con algún estilo de liderazgo, aunque se valorará más los perfiles de líderes de apoyo, líder directivo o líder de entrenamiento
+    ##
+    Se valoró que cuente con algún estilo de liderazgo, aunque se valorará más los perfiles de líderes de apoyo, líder directivo o líder de entrenamiento
   ##
 
 ## 📤 Salidas
@@ -82,37 +82,64 @@ Con respecto a los interesados del negocio, estos hacen referencia a los cliente
 
 - **Product Owner**  
   ##  
-  CContenido  
+  Cómo sabemos, en representación de este rol estará presente nuestro compañero Hubert Jared Jimenez Quispe 
 ##  
 - **Scrum Master**  
   ##  
-  EContenido   
+  Cómo sabemos, en representación de este rol estará presente nuestro compañero Rodrigo Melecio Flores Mayta 
 ##
 - **Visión del proyecto**  
   ##  
-  EContenido  
+  Esta visión fue resultado del proceso anterior y se puede revisar en [Vision del Proyecto](#vision-proyecto) 
 ##
 ## 🛠️ Herramientas y Técnicas
 
 - **Criterios de selección del Equipo Scrum**  
-  - ✓ Habilidades para resolver problemas
+  - ✓ Conocimiento técnico
+    ##
+    Se valoró los conocimientos técnicos variados para desempeñar diferentes tareas durante el proyecto(no es indispensable ser un experto en todo, pero si se debe cubrir las herramientas necesarias)
   ##
-  Se valoró que tenga un conocimiento amplio del marco de trabajo de Scrum, ganas y facultades de resolver los problemas que surjan en el desarrollo del problema.
+  - ✓ Responsabilidad y colaboración
+    ##
+    Se valoró tener habilidades de trabajo en equipo de manera proactiva y estar dispuesto a recibir feedback constante.
   ##
-  - ✓ Disponibilidad
-  ##
-  Se valoró que esté disponible a través de varios medios de comunicación para que el equipo Scrum le pueda consultar cualquier duda o inconveniente que tengan, llamadas, correos, o hasta presencialmente si es posible. Asimismo deberia tener la disponibilidad de gestionar o cuadrar las reuniones correspondientes con el equipo.
-  ##
-  - ✓ Compromiso
-  ##
-  Se valoró que esté dispuesto a asegurar un ambiente propicio para el equipo Scrum, así garantizando la entrega exitosa de proyectos Scrum
-  ##
-  - ✓ Estilo de liderazgo de apoyo
-  ##
-  Se valoró que cuente con algún estilo de liderazgo, aunque se valorará más los perfiles de líderes de apoyo, líder directivo o líder de entrenamiento
+  - ✓ Autonomia 
+    ##
+    Se valoró tener las habilidades interpersonales necesarias para determinar el éxito de los equipos autoorganizados, siendo una de ellas la aptitud autónoma para cumplir objetivos 
   ##
 
 ## 📤 Salidas
 
 - **Equipo Scrum identificado:**  
-Gracias a la evaluación de los miembros del equipo en base a los criterios de selección, se eligió al compañero Rodrigo Melecio Flores Mayta para el cargo de Scrum Master; esto por el cumplimento de los criterios de selección, por haber llevado el curso de SCRUM antes y tener familiaridad con las tecnologías usadas en el desarrollo del proyecto. El será el facilitador del equipo y el que apoye en todo momento al equipo Scrum para que se termine con exito el proyecto.  
+Gracias a la evaluación de los miembros del equipo en base a los criterios de selección, se eligieron a los compañeros Abraham Anibal Garcia Chavez y Claudio Estefano Ramon Torres para pertenecer al equipo Scrum o equipo de desarrollo; ellos tendrán que decidir la cantidad de trabajo que se comprometerá en un sprint y determinar la mejor manera de realizar este trabajo.  
+**Claudio Estefano Ramon Torres** 
+![Foto del inegrante Claudio del equipo Scrum](/EQUIPO-CLAUDIO-NEW.png)  
+**Abraham Anibal Garcia Chavez**
+![Foto del inegrante Abraham del equipo Scrum](/EQUIPO-ABRAHAM-NEW.png)  
+
+##
+---  
+### DESARROLLAR ÉPICAS
+
+## 📥 Entradas
+
+- **Equipo principal de Scrum**  
+  ##  
+  Contenido
+##  
+- **Visión del proyecto**  
+  ##  
+  Esta visión fue resultado del proceso anterior y se puede revisar en [Vision del Proyecto](#vision-proyecto) 
+##
+## 🛠️ Herramientas y Técnicas
+
+- **Reuniones con grupos de usuarios**  
+  Contenido
+  ##
+
+## 📤 Salidas
+
+- **Épicas:**  
+Contenido
+- **Personajes:**  
+Contenido   
