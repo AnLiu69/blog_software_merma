@@ -133,9 +133,11 @@ Gracias a la evaluación de los miembros del equipo en base a los criterios de s
 ##
 ## 🛠️ Herramientas y Técnicas
 
-- **Reuniones con grupos de usuarios**  
-  Contenido
-  ##
+- **Reuniones con grupos de usuarios**   
+  ##  
+  Esta reunión se dió gracias a que queriamos entender como equipo todos los procesos que comprenden a la negocio, esta se realizó en reunión con el gerente genreal llamado Oswaldo Jimenez Dualanto; en esta se discutieron las necesidades que tendría que satisfacer el proyecto, las oportunidades futuras y las entregas de iincrementos que se tendrían que dar.  
+  Esta reunión se dió gracias a la coordinación de nuestro Prodcut Owner con el Gerente ya que el tenía mayor contacto, esta se realizó a través de una llamada de meet; a partir de esta llamada se recolectó información crucial para el desarrollo de Épicas, historias de usuario, y que se necesitará en cada entregable.       
+  ![Reunión del equipo con los usuarios](/REUNION-GRUPO-USUARIOS.jpg) 
 
 ## 📤 Salidas
 
