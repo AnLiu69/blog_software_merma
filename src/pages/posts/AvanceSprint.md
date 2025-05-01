@@ -110,7 +110,7 @@ Con respecto a los interesados del negocio, estos hacen referencia a los cliente
 
 ## 📤 Salidas
 
-- **Equipo Scrum identificado:**  
+- <span id="equipo-scrum"><strong>Equipo Scrum identificado:</strong></span> 
 Gracias a la evaluación de los miembros del equipo en base a los criterios de selección, se eligieron a los compañeros Abraham Anibal Garcia Chavez y Claudio Estefano Ramon Torres para pertenecer al equipo Scrum o equipo de desarrollo; ellos tendrán que decidir la cantidad de trabajo que se comprometerá en un sprint y determinar la mejor manera de realizar este trabajo.  
 **Claudio Estefano Ramon Torres** 
 ![Foto del inegrante Claudio del equipo Scrum](/EQUIPO-CLAUDIO-NEW.png)  
@@ -141,7 +141,52 @@ Gracias a la evaluación de los miembros del equipo en base a los criterios de s
 
 ## 📤 Salidas
 
-- **Épicas:**  
-Contenido
-- **Personajes:**  
-Contenido   
+- <span id="lista-epicas"><strong>Épicas:</strong></span> 
+## 
+Gracias a la herramienta usada y a la evaluación del equipo completo, se identificaron algunas épicas, estas estan orientadas a darle todo el valor posible en la primera entrega  
+![Lista de Épicas](/ListaEpicas.PNG)  
+
+- <span id="user-person"><strong>Personajes:</strong></span> 
+##
+Se realizó un User Person de un stakeholder ideal para que sea el usuario del software, en este caso el más crucial que fue el gerente.  
+[User Persona del Gerente](https://drive.google.com/file/d/1FeWz9CF-EEhnPja3Giv1f9wIzHEcZCAO/view?usp=drive_link)  
+##
+---  
+### CREAR EL BACKLOG PRIORIZADO DEL PRODUCTO
+
+## 📥 Entradas
+
+- **Equipo principal de Scrum**  
+  ##  
+  Cómo sabemos, ya se han escogido todos los roles en procesos anteriores, el rol de Product Owner lo ocupa Huber Jared Jimenez Quispe, el rol de Scrum Master lo ocupa Rodrigo Melecio Flores Mayta y por último el rol del equipo Scrum lo ocupan Abraham Anibal Garcia Chavez y Claudio Estefano Ramon Torres 
+##  
+- **Épicas**  
+  ##  
+  Las épicas generadas se describieron y se visulizan en [Lista de Épicas](#lista-epicas) 
+##
+- **Personajes**  
+  ##  
+  Para este caso se realizo un User Person para el usuario crítico importante como se vé en [User Person Gerente](#user-person) 
+##
+## 🛠️ Herramientas y Técnicas
+
+- **Métodos de priorización**  
+  - ✓ Priorización de MoSCoW  
+  ##  
+  Este método se usó porque era facil de adaptar al equipo y se podía priorizar facilmente las épicas, estas épicas fueron priorizadas orientandose a brindarle todo el valor posible al cliente en las entregas, a continuación se puede ver la adición de esta priorización y un gráfico estadístico de las épicas y sus valores según MoSCoW                
+  ![Épica de Navegación Web priorizada](/EpicaPriorizada.png)  
+  ![Gráfico de torta de las épicas pririzadas](/GraficoTortaEpicasPriorizadas.png) 
+
+## 📤 Salidas
+
+- **Backlog priorizado al producto:** 
+## 
+Ya habiendo creado las épicas en procesos anteriores, ahora habiendole dado prioridad a cada una de ellas se puede dar la creación del backlog priroizado al producto, estas épicas fueron las iniciales cuando inicio el proyecto, pero por la naturaleza del proyecto se fueron añadiendo un par más en el transcurso del desarrollo 
+![Backlog preirizado al producto](/EpicasBacklog.PNG) 
+- **Criterios de terminado:**  
+##
+Estos criteros hacen referencia a la lista de requisitos que las historias de usuario en general deberian cumplir para decir que están terminadas, estos criterios se aplican para todas las historias de usuario, osea son más generales
+[Criterios de terminado](PONER IMAGEN)
+
+
+
