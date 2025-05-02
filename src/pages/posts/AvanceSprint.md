@@ -69,7 +69,7 @@ El proyecto consiste en desarrollar un software de gestión de merma que permita
 Gracias a la evaluación de los miembros del equipo en base a los criterios de selección, se eligió al compañero Rodrigo Melecio Flores Mayta para el cargo de Scrum Master; esto por el cumplimento de los criterios de selección, por haber llevado el curso de SCRUM antes y tener familiaridad con las tecnologías usadas en el desarrollo del proyecto. El será el facilitador del equipo y el que apoye en todo momento al equipo Scrum para que se termine con exito el proyecto.  
 ![Foto del Scrum Master](/MASTER-NEW.png) 
 ##
-- **Interesados del negocio identificados**  
+- <span id="interesados-negocio"><strong>Interesados del negocio identificados:</strong></span>    
 Con respecto a los interesados del negocio, estos hacen referencia a los clientes y usuarios a los que el proyecto les otorgará valor, en nuestro caso ubicamos a los siguientes iteresados, esto mediante la reunión de vision del proyecto y con información proporcionada por el cliente
 
 ![Cuadro de Interesados del negocio](/Interesados-del-negocio.JPG)
@@ -149,14 +149,14 @@ Gracias a la herramienta usada y a la evaluación del equipo completo, se identi
 - <span id="user-person"><strong>Personajes:</strong></span> 
 ##
 Se realizó un User Person de un stakeholder ideal para que sea el usuario del software, en este caso el más crucial que fue el gerente.  
-[User Persona del Gerente](https://drive.google.com/file/d/1FeWz9CF-EEhnPja3Giv1f9wIzHEcZCAO/view?usp=drive_link)  
+[User Persona del Gerente](https://drive.google.com/file/d/1FeWz9CF-EEhnPja3Giv1f9wIzHEcZCAO/view?usp=sharing)  
 ##
 ---  
 ### CREAR EL BACKLOG PRIORIZADO DEL PRODUCTO
 
 ## 📥 Entradas
 
-- **Equipo principal de Scrum**  
+- <span id="equipo-principal-scrum"><strong>Equipo principal de Scrum:</strong></span> 
   ##  
   Cómo sabemos, ya se han escogido todos los roles en procesos anteriores, el rol de Product Owner lo ocupa Huber Jared Jimenez Quispe, el rol de Scrum Master lo ocupa Rodrigo Melecio Flores Mayta y por último el rol del equipo Scrum lo ocupan Abraham Anibal Garcia Chavez y Claudio Estefano Ramon Torres 
 ##  
@@ -179,14 +179,69 @@ Se realizó un User Person de un stakeholder ideal para que sea el usuario del s
 
 ## 📤 Salidas
 
-- **Backlog priorizado al producto:** 
+- <span id="backlog-priorizado-producto"><strong>Backlog priorizado al producto:</strong></span> 
 ## 
 Ya habiendo creado las épicas en procesos anteriores, ahora habiendole dado prioridad a cada una de ellas se puede dar la creación del backlog priroizado al producto, estas épicas fueron las iniciales cuando inicio el proyecto, pero por la naturaleza del proyecto se fueron añadiendo un par más en el transcurso del desarrollo 
 ![Backlog preirizado al producto](/EpicasBacklog.PNG) 
-- **Criterios de terminado:**  
+- <span id="criterios-terminado"><strong>Criterios de terminado:</strong></span>  
 ##
-Estos criteros hacen referencia a la lista de requisitos que las historias de usuario en general deberian cumplir para decir que están terminadas, estos criterios se aplican para todas las historias de usuario, osea son más generales
-[Criterios de terminado](PONER IMAGEN)
+Estos criteros hacen referencia a la lista de requisitos que las historias de usuario en general deberian cumplir para decir que están terminadas, estos criterios se aplican para todas las historias de usuario, la creación de esta lista de criterios fue responsabilidad de nuestro Product Owner  
+![Criterios de terminado Ubicación](/CriteriosTerminado.JPG)  
+![Lista de criterios de terminado](/ListaCriteriosTerminado.JPG)    
+- **Definición de listo:**  
+##
+Estos criteros hacen referencia a la lista de requisitos que las historias de usuario en general deberian cumplir para que el equipo completo de Scrum, las pueda tomar en cuenta para desarrollar en el sprint o ingresar al backlog del sprint, estos criterios se aplican para todas las historias de usuario; este listado se creo gracias a la herramienta Confluence y su creación fue responsabilidad de nuestro Product Owner. 
+![Definición de Listo Ubicación](/CriteriosListo.JPG)  
+![Definición de Listo listada](/ListaDefinicionListo.JPG)  
+##
+---  
+### REALIZAR LA PLANIFICACIÓN DE LIBERACIÓN
+
+## 📥 Entradas
+
+- **Equipo principal de Scrum**  
+  ##  
+  Nuestro equipo principal de Scrum y a quién se le asigno cada rol se describe en el punto [Equipo principal de Scrum](#equipo-principal-scrum) 
+##  
+- **Interesados del negocio**  
+  ##  
+  La lista completa de interesados tabulada de manera ordenada se puede visualizar en [Interesados del Negocio](#interesados-negocio) 
+##
+- **Visión del proyecto**  
+  ##  
+  Esta visión fue resultado del proceso anterior y se puede revisar en [Vision del Proyecto](#vision-proyecto) 
+##  
+- **Backlog priorizado del producto**  
+  ##  
+  Para el Backlog priorizado al producto tuvimos que obtener una lista de requerimientos de alto nivel priorizados con la ayuda de alguna herramienta, nuestro Backlog priorizado se puede ver a más detalle en el puntwo [Backlog priorizado al producto](#backlog-priorizado-producto) 
+##  
+- **Criterios de terminado**  
+  ##  
+  La ubicación en el proyecto y el detallado de estos criterios se visualizan en el punto [Criterios de Terminado](#criterios-terminado) 
+##
+## 🛠️ Herramientas y Técnicas
+
+- **Sesiones de planificación de la liberación**  
+  ##  
+  NoEn este  caso el equipo principal de Scrum se reunió con el stakeholder un par de veces, en la segunda reunión se habló de los entregables y presentaciones de incrementos del producto; se establecieron fechas fijas esto por la naturaleza de nuestro ciclo académico y las evaluaciones. El cliente acepto las propuestas del equipo y se establecieron funcionalidades para las primeras 2 entregas.  
+  ![Reunión del equipo con los usuarios](/REUNION-GRUPO-USUARIOS.jpg)          
+- **Métodos de priorización de la liberación**  
+  - ✓ Priorización de MoSCoW  
+  ##  
+  Este método se usó porque es familiar para el equipo, este se empleo ya para la realización del backlog priorizado al producto, en este caso lo usaremos para agrupar historias de usuarios en bloques de lanzamiento (releases); la priorización de estos será ofrecer primero lo mínimo viable para que funcione el proyecto, luego funciones valiosas pero no críticas para el funcionamiento, otro lanzamiento puede ser de mejoras y extras y por último lo menos importante.  
+  [Cuadro de lanzamientos](https://docs.google.com/spreadsheets/d/1UZ4ZKxHTjjcfmxLvkyS60-0vmnm9yWUl/edit?usp=sharing&ouid=109001491989230177242&rtpof=true&sd=true)   
+ 
+
+## 📤 Salidas
+
+- **Cronograma de de planificación de la liberación:** 
+## 
+Como vimos en el cuadro anterior, ya se tiene una estimación de las historias de usuario y épicas que se tienen que presentar, los intervalos a realizar serán de 3 semanas, las cuales coincidarán con las evaluaciones de capacidad que cuenta el curso, estos entregables a diferencia de otros proyectos ágiles serán entregados en fechas determinadas no por funcionalidades terminadas.  
+[Cronograma de planificación de lanzamiento](/CronogramaPlaniLanzamienyo.png) 
+- **Duración del Sprint:**  
+##
+EsYa teniendo nuestro cronograma de las liberaciones que se harán en el proyecyecto, el calculo de la duración de los Sprints es una cosa automática y consecutiva; normalmente estas no varian a lo largo del proyecto o tienen muy poca variación.
+![Duración de los Sprints](/DuracionSprint.JPG)  
 
 
 
