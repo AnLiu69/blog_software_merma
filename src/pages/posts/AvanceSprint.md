@@ -188,7 +188,7 @@ Ya habiendo creado las épicas en procesos anteriores, ahora habiendole dado pri
 Estos criteros hacen referencia a la lista de requisitos que las historias de usuario en general deberian cumplir para decir que están terminadas, estos criterios se aplican para todas las historias de usuario, la creación de esta lista de criterios fue responsabilidad de nuestro Product Owner  
 ![Criterios de terminado Ubicación](/CriteriosTerminado.JPG)  
 ![Lista de criterios de terminado](/ListaCriteriosTerminado.JPG)    
-- **Definición de listo:**  
+- <span id="definicion-listo"><strong>Definición de listo:</strong></span>   
 ##
 Estos criteros hacen referencia a la lista de requisitos que las historias de usuario en general deberian cumplir para que el equipo completo de Scrum, las pueda tomar en cuenta para desarrollar en el sprint o ingresar al backlog del sprint, estos criterios se aplican para todas las historias de usuario; este listado se creo gracias a la herramienta Confluence y su creación fue responsabilidad de nuestro Product Owner. 
 ![Definición de Listo Ubicación](/CriteriosListo.JPG)  
@@ -213,7 +213,7 @@ Estos criteros hacen referencia a la lista de requisitos que las historias de us
 ##  
 - **Backlog priorizado del producto**  
   ##  
-  Para el Backlog priorizado al producto tuvimos que obtener una lista de requerimientos de alto nivel priorizados con la ayuda de alguna herramienta, nuestro Backlog priorizado se puede ver a más detalle en el puntwo [Backlog priorizado al producto](#backlog-priorizado-producto) 
+  Para el Backlog priorizado al producto tuvimos que obtener una lista de requerimientos de alto nivel priorizados con la ayuda de alguna herramienta, nuestro Backlog priorizado se puede ver a más detalle en el punto [Backlog priorizado al producto](#backlog-priorizado-producto) 
 ##  
 - **Criterios de terminado**  
   ##  
@@ -223,7 +223,7 @@ Estos criteros hacen referencia a la lista de requisitos que las historias de us
 
 - **Sesiones de planificación de la liberación**  
   ##  
-  NoEn este  caso el equipo principal de Scrum se reunió con el stakeholder un par de veces, en la segunda reunión se habló de los entregables y presentaciones de incrementos del producto; se establecieron fechas fijas esto por la naturaleza de nuestro ciclo académico y las evaluaciones. El cliente acepto las propuestas del equipo y se establecieron funcionalidades para las primeras 2 entregas.  
+  En este  caso el equipo principal de Scrum se reunió con el stakeholder un par de veces, en la segunda reunión se habló de los entregables y presentaciones de incrementos del producto; se establecieron fechas fijas esto por la naturaleza de nuestro ciclo académico y las evaluaciones. El cliente acepto las propuestas del equipo y se establecieron funcionalidades para las primeras 2 entregas.  
   ![Reunión del equipo con los usuarios](/REUNION-GRUPO-USUARIOS.jpg)          
 - **Métodos de priorización de la liberación**  
   - ✓ Priorización de MoSCoW  
@@ -240,7 +240,96 @@ Como vimos en el cuadro anterior, ya se tiene una estimación de las historias d
 [Cronograma de planificación de lanzamiento](/CronogramaPlaniLanzamienyo.png) 
 - **Duración del Sprint:**  
 ##
-EsYa teniendo nuestro cronograma de las liberaciones que se harán en el proyecyecto, el calculo de la duración de los Sprints es una cosa automática y consecutiva; normalmente estas no varian a lo largo del proyecto o tienen muy poca variación.
+Ya teniendo nuestro cronograma de las liberaciones que se harán en el proyecyecto, el calculo de la duración de los Sprints es una cosa automática y consecutiva; normalmente estas no varian a lo largo del proyecto o tienen muy poca variación.
+![Duración de los Sprints](/DuracionSprint.JPG)  
+
+--- 
+--- 
+
+<h1 id="sprint-2">SPRINT 2</h1>
+
+### CREAR HISTORIAS DE USUARIO
+
+## 📥 Entradas
+
+- **Equipo principal de Scrum**  
+  ##  
+  Nuestro equipo principal de Scrum y a quién se le asigno cada rol se describe en el punto [Equipo principal de Scrum](#equipo-principal-scrum) 
+##  
+- **Backlog priorizado del producto**  
+  ##  
+  El resultado de la creación del Backlog priorizado se puede ver a más detalle en el punto [Backlog priorizado al producto](#backlog-priorizado-producto) 
+##  
+- **Criterios de terminado**  
+  ##  
+  La ubicación en el proyecto y el detallado de estos criterios se visualizan en el punto [Criterios de Terminado](#criterios-terminado)
+##  
+- **Personajes**  
+  ##  
+  Para este caso se realizo un User Person para el usuario crítico importante como se vé en [User Person Gerente](#user-person)
+##
+- **Definición de listo**  
+  ##  
+  La ubicación en el proyecto y el detallado de estos criterios se visualizan en el punto [Definición de listo](#definicion-listo) 
+##
+## 🛠️ Herramientas y Técnicas
+
+- **Experiencia en la redacción de historias de usuario**  
+  ##  
+  Para que nuestro Product Owner pueda realizar la creación de las historias de usuario, el se baso en los conocimientos que adquirió cuando tenía cercania con el negocio en su momento, también en detalles que mencionó el gerente en la reunión que tuvimos para la creación de la visión del proyecto; pero también una parte importante para que se de este resultado esperado es haber seguido una metodología, la metodología INVEST, esta consiste en cumplir las seis características que dictan sus siglas, para por así tener historias de usuario de calidad.
+  ![Método INVEST](/INVEST.JPG)  
+
+
+## 📤 Salidas
+
+- **Historias de usuarios:** 
+## 
+Gracias a la metodología usada y la experiencia que tenia nuestro Product Owner, se logró crear una lista de historias de usuario que nos servirán para abarcar varios lanzamientos del proyecto en diferentes sprints; estas obviamente pertenecen a las épicas anteriormente.
+![Lista de historias de Usuario](/HistoriasUsuario.JPG)  
+##  
+Pero también se sabe que la historia debe tener un formato o un desglosamiento espcífico, esta basándose en las palábras "Cómo", "quiero" y "para"; en ese sentido se muestra como una de nuetras historias de usuario cuenta con este desglosamiento tan característico.  
+![Desglosamiento de historia de usuario](/DesglosamientoHistoria.JPG) 
+- **Criterio de aceptación de historias de usuario:**  
+##
+Los criterios de aceptación de una historia de usuario son los más especificos que hay, esto a diferencia de los de listo o terminado; estos criterios explican que se espera de la historia de usuario, además de darle contexto al nuestro Product Owner para decidir si se completo satisfactoriamente.
+![Criterios de aceptación de la historia de usuario de busqueda](/CriteriosAceptacionUno.JPG)  
+![Criterios de aceptación de la historia de usuario de ingreso de datos](/CriteriosAceptacionDoso.JPG)  
+##
+---  
+### ESTIMAR HISTORIAS DE USUARIO
+
+## 📥 Entradas
+
+- **Equipo principal de Scrum**  
+  ##  
+  Nuestro equipo principal de Scrum y a quién se le asigno cada rol se describe en el punto [Equipo principal de Scrum](#equipo-principal-scrum) 
+##  
+- **Criterios de aceptación de historias de usuario**  
+  ##  
+  La liCONTEND
+##
+## 🛠️ Herramientas y Técnicas
+
+- **Sesiones de planificación de la liberación**  
+  ##  
+  En este  caso el equipo principal de Scrum se reunió con el stakeholder un par de veces, en la segunda reunión se habló de los entregables y presentaciones de incrementos del producto; se establecieron fechas fijas esto por la naturaleza de nuestro ciclo académico y las evaluaciones. El cliente acepto las propuestas del equipo y se establecieron funcionalidades para las primeras 2 entregas.  
+  ![Reunión del equipo con los usuarios](/REUNION-GRUPO-USUARIOS.jpg)          
+- **Métodos de priorización de la liberación**  
+  - ✓ Priorización de MoSCoW  
+  ##  
+  Este método se usó porque es familiar para el equipo, este se empleo ya para la realización del backlog priorizado al producto, en este caso lo usaremos para agrupar historias de usuarios en bloques de lanzamiento (releases); la priorización de estos será ofrecer primero lo mínimo viable para que funcione el proyecto, luego funciones valiosas pero no críticas para el funcionamiento, otro lanzamiento puede ser de mejoras y extras y por último lo menos importante.  
+  [Cuadro de lanzamientos](https://docs.google.com/spreadsheets/d/1UZ4ZKxHTjjcfmxLvkyS60-0vmnm9yWUl/edit?usp=sharing&ouid=109001491989230177242&rtpof=true&sd=true)   
+ 
+
+## 📤 Salidas
+
+- **Cronograma de de planificación de la liberación:** 
+## 
+Como vimos en el cuadro anterior, ya se tiene una estimación de las historias de usuario y épicas que se tienen que presentar, los intervalos a realizar serán de 3 semanas, las cuales coincidarán con las evaluaciones de capacidad que cuenta el curso, estos entregables a diferencia de otros proyectos ágiles serán entregados en fechas determinadas no por funcionalidades terminadas.  
+[Cronograma de planificación de lanzamiento](/CronogramaPlaniLanzamienyo.png) 
+- **Duración del Sprint:**  
+##
+Ya teniendo nuestro cronograma de las liberaciones que se harán en el proyecyecto, el calculo de la duración de los Sprints es una cosa automática y consecutiva; normalmente estas no varian a lo largo del proyecto o tienen muy poca variación.
 ![Duración de los Sprints](/DuracionSprint.JPG)  
 
 
