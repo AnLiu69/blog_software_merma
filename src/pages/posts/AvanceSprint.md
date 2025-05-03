@@ -4,6 +4,8 @@ title: "Avances por sprint"
 order: 6
 ---
 
+--- 
+--- 
 <h1 id="sprint-1">SPRINT 1</h1>
 
 ### CREAR LA VISIÓN DEL PROYECTO
@@ -237,7 +239,7 @@ Estos criteros hacen referencia a la lista de requisitos que las historias de us
 - **Cronograma de de planificación de la liberación:** 
 ## 
 Como vimos en el cuadro anterior, ya se tiene una estimación de las historias de usuario y épicas que se tienen que presentar, los intervalos a realizar serán de 3 semanas, las cuales coincidarán con las evaluaciones de capacidad que cuenta el curso, estos entregables a diferencia de otros proyectos ágiles serán entregados en fechas determinadas no por funcionalidades terminadas.  
-[Cronograma de planificación de lanzamiento](/CronogramaPlaniLanzamienyo.png) 
+![Cronograma de planificación de lanzamiento](/CronogramaPlaniLanzamienyo.png) 
 - **Duración del Sprint:**  
 ##
 Ya teniendo nuestro cronograma de las liberaciones que se harán en el proyecyecto, el calculo de la duración de los Sprints es una cosa automática y consecutiva; normalmente estas no varian a lo largo del proyecto o tienen muy poca variación.
@@ -282,14 +284,14 @@ Ya teniendo nuestro cronograma de las liberaciones que se harán en el proyecyec
 
 ## 📤 Salidas
 
-- **Historias de usuarios:** 
+- <span id="historias-usuarios"><strong>Historias de usuarios:</strong></span>
 ## 
 Gracias a la metodología usada y la experiencia que tenia nuestro Product Owner, se logró crear una lista de historias de usuario que nos servirán para abarcar varios lanzamientos del proyecto en diferentes sprints; estas obviamente pertenecen a las épicas anteriormente.
 ![Lista de historias de Usuario](/HistoriasUsuario.JPG)  
 ##  
 Pero también se sabe que la historia debe tener un formato o un desglosamiento espcífico, esta basándose en las palábras "Cómo", "quiero" y "para"; en ese sentido se muestra como una de nuetras historias de usuario cuenta con este desglosamiento tan característico.  
 ![Desglosamiento de historia de usuario](/DesglosamientoHistoria.JPG) 
-- **Criterio de aceptación de historias de usuario:**  
+- <span id="criterios-aceptacion"><strong>Criterio de aceptación de historias de usuario:</strong></span>
 ##
 Los criterios de aceptación de una historia de usuario son los más especificos que hay, esto a diferencia de los de listo o terminado; estos criterios explican que se espera de la historia de usuario, además de darle contexto al nuestro Product Owner para decidir si se completo satisfactoriamente.
 ![Criterios de aceptación de la historia de usuario de busqueda](/CriteriosAceptacionUno.JPG)  
@@ -304,33 +306,40 @@ Los criterios de aceptación de una historia de usuario son los más especificos
   ##  
   Nuestro equipo principal de Scrum y a quién se le asigno cada rol se describe en el punto [Equipo principal de Scrum](#equipo-principal-scrum) 
 ##  
+- **Historias de usuarios**  
+  ##  
+  La lista de historias de usuarios que obtuvimos en su respectivo proceso, se detalla en el punto [Historias de usuarios](#historias-usuarios) 
+##  
 - **Criterios de aceptación de historias de usuario**  
   ##  
-  La liCONTEND
+  El detallado, donde se encuentran y ejemplos de estos se encuentran en el punto [Criterios de aceptación](#criterios-aceptacion) 
 ##
 ## 🛠️ Herramientas y Técnicas
 
-- **Sesiones de planificación de la liberación**  
+- **Métodos de estimación**  
+  - ✓ Planning Poker  
   ##  
-  En este  caso el equipo principal de Scrum se reunió con el stakeholder un par de veces, en la segunda reunión se habló de los entregables y presentaciones de incrementos del producto; se establecieron fechas fijas esto por la naturaleza de nuestro ciclo académico y las evaluaciones. El cliente acepto las propuestas del equipo y se establecieron funcionalidades para las primeras 2 entregas.  
-  ![Reunión del equipo con los usuarios](/REUNION-GRUPO-USUARIOS.jpg)          
-- **Métodos de priorización de la liberación**  
-  - ✓ Priorización de MoSCoW  
-  ##  
-  Este método se usó porque es familiar para el equipo, este se empleo ya para la realización del backlog priorizado al producto, en este caso lo usaremos para agrupar historias de usuarios en bloques de lanzamiento (releases); la priorización de estos será ofrecer primero lo mínimo viable para que funcione el proyecto, luego funciones valiosas pero no críticas para el funcionamiento, otro lanzamiento puede ser de mejoras y extras y por último lo menos importante.  
-  [Cuadro de lanzamientos](https://docs.google.com/spreadsheets/d/1UZ4ZKxHTjjcfmxLvkyS60-0vmnm9yWUl/edit?usp=sharing&ouid=109001491989230177242&rtpof=true&sd=true)   
+  En el caso del equipo se optó por utilizar la técnina del planning poker, esta decisión fue influenciada por el Scrum Master ya que consideró que el equipo se adaptaría rápido a esta técnina, además de ser didáctica, alentar al diálogo cuando no se llega a un puntaje promedio y por ser rápida en ejecución. Además de eso nos ayudó a que el equipo elija el rango de puntos de estimación con los que quería trabajar y así elegir unos que se acomoden más a las situaciones que se pueden presentar.  
+  ![Rangos de puntos de estimación](/RangosPuntosEstimacion.JPG)  
+  ##
+  La plataforma usada es Scrumpoker Online porque nos pareció idonea por su capacidad de traer el backlokg que teniamos en Jira, crear salas privadas y además de contar con estadísticas que median todo el proceso de estimación; este recurso se encuentra en [Scrumpoker Online](https://scrumpoker.online)  
+  ![Menu de Scrumpoker online](/MenuScrumpoker.JPG)  
+  ##
+  Los pasos para usar esta ténica son los siguientes, primero se establece un rango en donde puede estar los puntos de historia que se le puede dar a una, cuando comienza cada estimación se le mostrará una serie de cartas con los valores a los integrantes del equipo Scrum, ellos eligiran el valor que más concideren en relación al tiempo y el esfuerzo que esa historia de usuario puede acarrear para su completitud.  
+  ![Valores para estimar historias](/VALORES.JPG)  
+  ##
+  Después de que cada integrante elija una carta la ronda termina y se voltean todas, si los puntajes en las cartas de todos se parecen o son iguales se le asigna esa puntuación a la historia de usuario.
+  ![Poker con valores iguales](/TERCERPOKER.JPG)  
+  ##
+  Pero si no se llega a un acuerdo cada integrante que tenga los numeros distintos explicará el porque le puso un puntaje alto a la historia de usuario, esto para llegar a un acuerdo y poder estimar la historia en un punto medio para ambos o para que el equipo comprenda todos los angulos de la historia de usuario, después de la charla se vuelve a iniciar  otra ronda de poker hasta que se llegue a un acuerdo.
+  ![Poker con valores distintos](/PokerValorDistinto.JPG) 
  
 
 ## 📤 Salidas
 
-- **Cronograma de de planificación de la liberación:** 
+- **Historias de usuario estimadas:** 
 ## 
-Como vimos en el cuadro anterior, ya se tiene una estimación de las historias de usuario y épicas que se tienen que presentar, los intervalos a realizar serán de 3 semanas, las cuales coincidarán con las evaluaciones de capacidad que cuenta el curso, estos entregables a diferencia de otros proyectos ágiles serán entregados en fechas determinadas no por funcionalidades terminadas.  
-[Cronograma de planificación de lanzamiento](/CronogramaPlaniLanzamienyo.png) 
-- **Duración del Sprint:**  
-##
-Ya teniendo nuestro cronograma de las liberaciones que se harán en el proyecyecto, el calculo de la duración de los Sprints es una cosa automática y consecutiva; normalmente estas no varian a lo largo del proyecto o tienen muy poca variación.
-![Duración de los Sprints](/DuracionSprint.JPG)  
-
+Gracias al proceso de estimación de las historias de usuario, podemos ya tener todas con sus puntajes y considerarlas historias de usuario estimadas, recordar que el valor de estas representan el esfuerzo y tiempo que se requiere completarlas
+![Lista de historias estimadas](/HistoriasEstimadas.JPG) 
 
 
