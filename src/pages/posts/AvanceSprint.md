@@ -240,7 +240,7 @@ Estos criteros hacen referencia a la lista de requisitos que las historias de us
 ## 
 Como vimos en el cuadro anterior, ya se tiene una estimación de las historias de usuario y épicas que se tienen que presentar, los intervalos a realizar serán de 3 semanas, las cuales coincidarán con las evaluaciones de capacidad que cuenta el curso, estos entregables a diferencia de otros proyectos ágiles serán entregados en fechas determinadas no por funcionalidades terminadas.  
 ![Cronograma de planificación de lanzamiento](/CronogramaPlaniLanzamienyo.png) 
-- **Duración del Sprint:**  
+- <span id="duracion-sprint"><strong>Duración del Sprint:</strong></span>    
 ##
 Ya teniendo nuestro cronograma de las liberaciones que se harán en el proyecyecto, el calculo de la duración de los Sprints es una cosa automática y consecutiva; normalmente estas no varian a lo largo del proyecto o tienen muy poca variación.
 ![Duración de los Sprints](/DuracionSprint.JPG)  
@@ -337,9 +337,45 @@ Los criterios de aceptación de una historia de usuario son los más especificos
 
 ## 📤 Salidas
 
-- **Historias de usuario estimadas:** 
+- <span id="historias-usuarios-estimadas"><strong>Historias de usuario estimadas:</strong></span>
 ## 
 Gracias al proceso de estimación de las historias de usuario, podemos ya tener todas con sus puntajes y considerarlas historias de usuario estimadas, recordar que el valor de estas representan el esfuerzo y tiempo que se requiere completarlas
-![Lista de historias estimadas](/HistoriasEstimadas.JPG) 
+![Lista de historias estimadas](/HistoriasEstimadas.JPG)  
+## 
+---  
+### COMPROMETER HISTORIAS DE USUARIO
+
+## 📥 Entradas
+
+- **Equipo principal de Scrum**  
+  ##  
+  Nuestro equipo principal de Scrum y a quién se le asigno cada rol se describe en el punto [Equipo principal de Scrum](#equipo-principal-scrum) 
+##  
+- **Historias de usuario estimadas**  
+  ##  
+  La lista de historias de usuarios estimadas y sus puntos de historia con los que se estimaron, se detalla en el punto [Historias de usuarios estimadas](#historias-usuarios-estimadas) 
+##  
+- **Duración del Srpint**  
+  ##  
+  La duración de los sprints, fechas de inicio y finalización se encuentran en el punto [Duración del sprint](#duracion-sprint) 
+##
+## 🛠️ Herramientas y Técnicas
+
+- **Reuniones de planificación del sprint**  
+  En en este  caso el equipo principal de Scrum se reunió para realizar la elección de las historias de usuario y sus respectivas tareas que desarrollará en el sprint 2, en esta reunión el equipo se comprometió a entregar un subconjunto de historias que priviamente se priorizaron y estimaron, se eligieron las historias más críticas para este caso.  
+  ![Reunión del equipo Scrum](/REUNION25-04.JPG)  
+ 
+
+## 📤 Salidas
+
+- **Historias de usuario comprometidas:** 
+## 
+GCONTEXTO  qui solo las historias de usuario (filtrar) que estan en el backlog del sprint
+- **Backlog del sprint actualizado:** 
+## 
+GCONTEXTO  aqui la captura de todo el backlog del sprint2
+- **Scrumboard:** 
+## 
+GCONTEXTO, aquí ira una imagen del tablero del jira
 
 
