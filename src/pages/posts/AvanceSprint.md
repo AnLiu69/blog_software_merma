@@ -368,14 +368,149 @@ Gracias al proceso de estimación de las historias de usuario, podemos ya tener 
 
 ## 📤 Salidas
 
-- **Historias de usuario comprometidas:** 
+- <span id="historias-usuarios-comprometidas"><strong>Historias de usuario comprometidas:</strong></span>
 ## 
-GCONTEXTO  qui solo las historias de usuario (filtrar) que estan en el backlog del sprint
-- **Backlog del sprint actualizado:** 
+Habiendo pasado por el proceso anterior, obtendremos una lista de historias de usuarios a los que el equipo Scrum se compromete a finalizar en el Sprint correspondiente, esta será dependiendo de lo urgente que  sea la historia o que tanto valor le retornará a la empresa.
+![Historias de usuario comprometidas](/historias.JPG)  
+- <span id="backlog-sprint"><strong>Backlog del sprint actualizado:</strong></span>
 ## 
-GCONTEXTO  aqui la captura de todo el backlog del sprint2
+Y obvio teniendo ya las historias comprometidas, el backlog del Sprint será actualizado, ya que ahora se tendrán las historias que se tendran en todo este Sprint, así como se ve en la siguiente imagen  
+![Backlog del Sprint Actualizado](/backlogSprintActualizado.JPG) 
 - **Scrumboard:** 
 ## 
-GCONTEXTO, aquí ira una imagen del tablero del jira
+Ya que se tendrán las historias de usuario necesarias para que este Sprint comience, debemos tener una herramienta que nos ayude a dar seguimiento al proyecto, al desarrollo del trabajo de estas y a como evolucionan en el tiempo que dure el sprint; para esto nos serviremos del Scrumboard ya que por este medio el equipo Scrum cambiará de estado las historias y tareas correspondientes de manera facil y ordenada.  
+![Scrumboard](/Scrumboard.JPG)  
+##
+---  
+### IDENTIFICAR TAREAS
 
+## 📥 Entradas
+
+- **Equipo principal de Scrum**  
+  ##  
+  Nuestro equipo principal de Scrum y a quién se le asigno cada rol se describe en el punto [Equipo principal de Scrum](#equipo-principal-scrum) 
+##  
+- **Historias de usuario comprometidas**  
+  ##  
+  La lista de historias de usuarios comprometidas y su orden en el backlog del Sprint, se detalla en el punto  
+  [Historias de usuario comprometidas](#historias-usuarios-comprometidas) 
+##  
+- **Criterios de aceptación de historias de usuario**  
+  ##  
+  El detallado, donde se encuentran y ejemplos de estos se encuentran en el punto [Criterios de aceptación](#criterios-aceptacion) 
+##
+## 🛠️ Herramientas y Técnicas
+
+- **Reuniones de planificación del sprint**  
+  En en este  caso el equipo principal de Scrum se reunió para realizar la identificación de las tareas de cada historia de usuario que se desarrollará en el sprint 2, en esta reunión el equipo sirviendose de las historias de usuario comprometidas identifican una serie de actividades que nos servirá desglosar para que se pueda completar la historia de usuario.
+  ![Reunión del equipo Scrum](/REUNION25-04.JPG)  
+ 
+
+## 📤 Salidas
+
+- <span id="lista-tareas"><strong>Lista de tareas:</strong></span>
+## 
+Habiendo pasado por el proceso anterior, obtendremos una lista de tareas, estas tareas ayudarán al equipo a terminar o dar por completadas las historias de usuario; ya que desglosan el problema en apartado más pequeños. Ahora ya al tener estas tareas dentro de cada historia de usuario, esta debe actualizar sus criterios de aceptación integrando de alguna manera a las tareas dentro de ella.
+![Tareas del Sprint 2](/tareasI.JPG)  
+- **Scrumboard actualizado:** 
+## 
+En primera instancia se tenia a las historias de usuario solas en el Scrumboard, pero depués del proceso anterior todas las tareas dentro de sus respectivas historias de usuario se añadiran al Scrumboard, esto ya que no solo se necesitará un seguimiento a las historias, sino también a las tareas que componene cada una de estas.
+![Scrumboard actualizado](/ScrumboardActu.JPG)  
+##
+---  
+### ESTIMAR TAREAS
+
+## 📥 Entradas
+
+- **Equipo principal de Scrum**  
+  ##  
+  Nuestro equipo principal de Scrum y a quién se le asigno cada rol se describe en el punto [Equipo principal de Scrum](#equipo-principal-scrum) 
+##  
+- **Lista de tareas**  
+  ##  
+  La lista de tareas identificadas y como se ve en el backlog del Sprint, se detalla en el punto [Lista de tareas](#lista-tareas) 
+##  
+- **Criterios de aceptación de historias de usuario**  
+  ##  
+  El detallado, donde se encuentran y ejemplos de estos se encuentran en el punto [Criterios de aceptación](#criterios-aceptacion) 
+##
+## 🛠️ Herramientas y Técnicas
+
+- **Reuniones de planificación del sprint**  
+  En en este  caso el equipo principal de Scrum se reunió para estimar las tareas que se identificaron en el proceso anterior, en esta reunión el equipo sirviendose de los criterios de estimación y de un método en específico estimará cada tarea; esta estimación está relacionada al esfuerzo y tiempo que el equipo Scrum percibe sobre la tarea en específico.
+  ![Reunión del equipo Scrum](/REUNION25-04.JPG)  
+- **Criterios de estimación**  
+  Para este momento los criterios de estimación fueron el esfuerzo que se requerira completar la tarea y también  el tiempo que se requiera, la combinación de estos dos criterios será visibilizada como puntos de historia, estos estarán dentro de un rnago para que el equipo pueda escoger corrrectamente y de manera rápida.  
+  ![Rango de puntos para estimación](/listaPuntosH.JPG)  
+- **Métodos de estimación**  
+  Para esta estimación en específico, osea para la estimación de las tareas, se usará un método un poco más rápido que en el caso de las histroias de usuario, ya que en relación con las historias de usuario, las tareas son mucho más abundantes.  
+  Dado este dato se utilizará el método de estimación "One by one estimation", el cual consiste en mostrar cada tarea identificada y el equipo dará un puntaje dentro del rango anterior, y para sacar el puntaje que corresponderá a la tarea, se sacará un promedio de los puntajes que ortogaron los participantes. 
+  ![Promediando los puntajes](/estimacionT.JPG)      
+ 
+
+## 📤 Salidas
+
+- **Lista de tareas actualizadas:** 
+## 
+Al terminar de tratar las tareas con los criterios y métodos anteriores, se modificará la lista de tareas que teniamos del proceso anterior, ahora estas tendrán un puntaje a su derecha indicando sus estimación en puntos de historia; esta estimación se sumará a la estimación de las historias de usuario y completarán el 100% de estimación del Sprint
+![Tareas estimadas](/tareasE.JPG)  
+- <span id="scrumboard-actualizado"><strong>Scrumboard actualizado:</strong></span>
+## 
+En primera instancia se tenia a las historias de usuario solas en el Scrumboard, luego se añadieron las tareas identificadas para cada historia de usuario, ahora a todo esto se debe actualizar estas tareas, ya que al estar estimadas se debería ver reflejado los puntos de historia que vale cada tarea e historia.
+![Scrumboard actualizado tareas estimadas](/tareasEScrumboard.JPG)  
+##
+---  
+### ACTUALIZAR EL BACKLOG DEL SPRINT
+
+## 📥 Entradas
+
+- **Equipo principal de Scrum**  
+  ##  
+  Nuestro equipo principal de Scrum y a quién se le asigno cada rol se describe en el punto [Equipo principal de Scrum](#equipo-principal-scrum) 
+##  
+- **Lista de tareas**  
+  ##  
+  La lista de tareas identificadas y como se ve en el backlog del Sprint, se detalla en el punto [Lista de tareas](#lista-tareas) 
+##  
+- **Duración del sprint**  
+  ##  
+  La duración de los sprints, fechas de inicio y finalización se encuentran en el punto [Duración del sprint](#duracion-sprint) 
+##
+- **Backlog del sprint**  
+  ##  
+  La composición de historias de usuario y a la vez que una descripción de este se encuentra en el punto [Backlog del sprint](#backlog-sprint) 
+##  
+- **Scrumboard**  
+  ##  
+  Ya que en los ultimos procesos estabamos añadiendole varias cosas, estas adiciones y su estado final se puede ver en el punto [Scrumboard](#scrumboard-actualizado) 
+##
+## 🛠️ Herramientas y Técnicas
+
+- **Reuniones de planificación del sprint**  
+  En en este  caso el equipo principal de Scrum se reunió para ya no solo comprometer las historias o tareas, sino también para elegir específicamente quien se encargará de que historia, este proceso se agilizará ya que se tienen estimadas tanto historias como tareas, así los integrantes elegirán sus historias correspondientes basadas en los puntos de historias.
+  ![Historias de usuario escogidas por el equipo](/eleccionH.JPG)    
+
+## 📤 Salidas
+
+- **Backlog del sprint actualizado:** 
+## 
+Al terminar este proceso tendremos muchas adiciones en el backlog del sprint, historias, tareas, puntos de historia, asignaciones de historias, etc; en este sentido el backlog del sprint se mostrará en completitud, tal cual se ve en la siguiente imagen; en esta están resaltadas varios puntos, uno representa cuanto vale en puntos de usuario el sprint completo, otro representa la estimación de una tarea, otro representa la estimación de una historia de usuario y por último se representa a la asignación que tiene una historia de usuario.
+![Backlog del sprint actualizado](/backlogSprintA.JPG)  
+- **Scrumboard actualizado:** 
+## 
+Tanto como el backlog del sprint, el scrumboard también sufrira varias actualizaciones, en este caso se tiene que recordar que hay historias de usuario que volvieron del sprint 1 ya que se tuvo una deuda técnica y se les está dando una especial prioridad por encima de las demás; a la vez que en este tablero también se expresa todo lo que en el backlog, estimación, historias, tareas, etc.
+![Scrumboard actualizado final](/scrumboardActualizado.JPG)  
+
+- **Sprint Burndown o Burnup:** 
+## 
+El gráfico de quemado de trabajo o mejor conocido como gráfico de trabajo pendiente nos servirá para tener un seguimiento del trabajo que no se está llevando a cabo y en base a eso tomar las medidas necesarias.  
+Si se está trabjando con Jira para gestionar el proyecto como es en nuestro caso, la ubicación de este gráfico se encuentra en la pestaña de informes y seleccionando el cuadro resaltado.
+![Ubicacion Sprint Burndown Chart](/unicacionSB.JPG)  
+##  
+Ya estando ahí observaremos una gráfica que debería tener una línea guía y una línea de carga de trabajo (se puede expresear en puntos de historia, recuento de actividades o tiempo) que falta para completar el sprint. Esta gráfica nos sirve para ver si nos estamos apegando a la línea guía o esta psando otra cosa, la línea guía es el caso ideal de como debería descender la carga de trabajo durante todo el sprint.  
+![Sprint Burndown Chart](/SBGrafica.JPG)  
+##  
+Los ejes como se ve en la imagen representan los puntos de historia (eje X), y el tiempo en el que se realizará el sprint (eje Y)  
+Por último si queremos hacer una comparación de gráficos entre este y su contraparte el Sprint Burnup Chart, veremos que este último se centra más en el trabajo realizado en vez que en el pendiente, esto se evidencia más en la siguiente imagen.  
+![Sprint Burnup Chart](/SBUGrafica.JPG) 
 
