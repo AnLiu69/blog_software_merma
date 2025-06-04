@@ -834,12 +834,12 @@ Los criterios de aceptación de una historia de usuario son los más especificos
   ![Valores para estimar historias](/VALORES.JPG)  
   ##
   Después de que cada integrante elija una carta la ronda termina y se voltean todas, si los puntajes en las cartas de todos se parecen o son iguales se le asigna esa puntuación a la historia de usuario.  
-  REEMPLAZAR LA IMAGEN DE AQUÍ 👇 👇 👇
-  ![Poker con valores iguales](/TERCERPOKER.JPG)  
+  
+  ![Poker con valores iguales](/POKERASIGNARROLES.JPG)  
   ##
   Pero si no se llega a un acuerdo cada integrante que tenga los numeros distintos explicará el porque le puso un puntaje alto a la historia de usuario, esto para llegar a un acuerdo y poder estimar la historia en un punto medio para ambos o para que el equipo comprenda todos los angulos de la historia de usuario, después de la charla se vuelve a iniciar  otra ronda de poker hasta que se llegue a un acuerdo.  
-  REEMPLAZAR LA IMAGEN DE AQUÍ 👇 👇 👇
-  ![Poker con valores distintos](/PokerValorDistinto.JPG) 
+  
+  ![Poker con valores distintos](/POKERELIMINARUSUARIO.JPG) 
  
 
 ## 📤 Salidas
@@ -870,8 +870,8 @@ Gracias al proceso de estimación de las historias de usuario, podemos ya tener 
 
 - **Reuniones de planificación del sprint**  
   En en este  caso el equipo principal de Scrum se reunió para realizar la elección de las historias de usuario y sus respectivas tareas que desarrollará en el sprint 3, en esta reunión el equipo se comprometió a entregar un subconjunto de historias que previamente se priorizaron y estimaron, se eligieron las historias más críticas para este caso.  
-  REEMPLAZAR LA IMAGEN DE AQUÍ 👇 👇 👇  
-  ![Reunión del equipo Scrum](/REUNION25-04.JPG)  
+    
+  ![Reunión del equipo Scrum](/REUNION02-06.JPG)  
  
 
 ## 📤 Salidas
@@ -912,8 +912,8 @@ Ya que se tendrán las historias de usuario necesarias para que este Sprint comi
 
 - **Reuniones de planificación del sprint**  
   En en este  caso el equipo principal de Scrum se reunió para realizar la identificación de las tareas de cada historia de usuario que se desarrollará en el sprint 3, en esta reunión el equipo sirviendose de las historias de usuario comprometidas identifican una serie de actividades que nos servirá desglosar para que se pueda completar la historia de usuario.  
-  REEMPLAZAR LA IMAGEN DE AQUÍ 👇 👇 👇
-  ![Reunión del equipo Scrum](/REUNION25-04.JPG)  
+  
+  ![Reunión del equipo Scrum](/REUNION03-06.JPG)  
  
 
 ## 📤 Salidas
@@ -950,8 +950,8 @@ En primera instancia se tenia a las historias de usuario solas en el Scrumboard,
 
 - **Reuniones de planificación del sprint**  
   En en este  caso el equipo principal de Scrum se reunió para estimar las tareas que se identificaron en el proceso anterior, en esta reunión el equipo sirviendose de los criterios de estimación y de un método en específico estimará cada tarea; esta estimación está relacionada al esfuerzo y tiempo que el equipo Scrum percibe sobre la tarea en específico.  
-  REEMPLAZAR LA IMAGEN DE AQUÍ 👇 👇 👇
-  ![Reunión del equipo Scrum](/REUNION25-04.JPG)  
+  
+  ![Reunión del equipo Scrum](/REUNION03-06.JPG)  
 - **Criterios de estimación**  
   Para este momento los criterios de estimación fueron el esfuerzo que se requerira completar la tarea y también  el tiempo que se requiera, la combinación de estos dos criterios será visibilizada como puntos de historia, estos estarán dentro de un rango para que el equipo pueda escoger corrrectamente y de manera rápida.  
   ![Rango de puntos para estimación](/listaPuntosH.JPG)  
@@ -1062,17 +1062,17 @@ Por último si queremos hacer una comparación de gráficos entre este y su cont
 
 - <span id="entregables-sprint-s3"><strong>Entregables del Sprint:</strong></span> 
 ## 
-En el entregable de este sprint se piensa entregar varias funcionalidades que aporten valor a la empresa, ya que este software está orientado a la gestión de merma, la vista gráfica de esta por proyecto ayuda demasiado a la trazabilidad e identificación de puntos de fuga, a la vez que su exportación para mostrarlo a trabajadores es mucho más facil. A la vez no se tiene que olvidar la deuda ténica que se tiene que solucionar si o sí para este sprint.  
-Dado todo esto la fecha límite para terminar de relizar este entregable es el 14 del mes de mayo, como se ve en la siguiente imagen.
-![Fecha límite para hacer la entrega](/finSprint.JPG)  
+En el entregable de este sprint se piensa entregar varias funcionalidades que aporten valor a la empresa, ya que este software está orientado a la gestión de merma y ya teniedo la vista gráficamente de esta, se irá un paso más adelante adicionando la funcionalidad de la comparativa de gráficas por proyecto, así teniendo una distinción de esta en ambos proyectos. A la vez de la expansión del software a un uso hacia trabajadores, esto para que se elimine puntos de fuga en la comunicación de merma, además de enriqueser la trazabilidad.  
+Dado todo esto la fecha límite para terminar de relizar este entregable es el 11 del mes de Junio, como se ve en la siguiente imagen.
+![Fecha límite para hacer la entrega](/finSprintS3.JPG)  
 - **Scrumboard actualizado:** 
 ## 
 Mientras se realicen los entregables, los estados tanto de tareas e historias de usuario irán cambiando; esto se podrá hacer de manera facil en el Scrumboard ya que el equipo siempre tiene acceso a este y podrá ver las historias y tareas designadas a ellos, y por consecuencia este tablero se irá actualizando de manera natural.
-![Scrumboard](/Scrumboard.JPG)  
-- <span id="lista-impedimentos-actualizada"><strong>Lista de impedimentos actualizada:</strong></span> 
+![Scrumboard](/ScrumboardS3.PNG)  
+- <span id="lista-impedimentos-actualizada-s3"><strong>Lista de impedimentos actualizada:</strong></span> 
 ## 
 Durante el transcurso del desarrollo del entregable los componenetes de esta lista se irán resolviendo y naturalmente identificaremos otros, lo importante es tener la lista actualizada y revisada constantemente.
-![Lista de impedimentos actualizada](/impeA.JPG)  
+![Lista de impedimentos actualizada](/impeAS3.JPG)  
 ##
 ---  
 ### REALIZAR EL DAILY STANDUP
@@ -1089,17 +1089,17 @@ Durante el transcurso del desarrollo del entregable los componenetes de esta lis
 ##  
 - **Scrumboard**  
   ##  
-  Ya que en los ultimos procesos estabamos añadiendole varias cosas, estas adiciones y su estado final se puede ver en el punto [Scrumboard](#scrumboard-actualizado) 
+  Ya que en los ultimos procesos estabamos añadiendole varias cosas, estas adiciones y su estado final se puede ver en el punto [Scrumboard](#scrumboard-actualizado-s3) 
 ##  
 - **Lista de impedimentos**  
   ##  
-  El detallado, donde se encuentran y su importancia se detallan en el punto [Lista de impedimentos](#lista-impedimentos-actualizada) 
+  El detallado, donde se encuentran y su importancia se detallan en el punto [Lista de impedimentos](#lista-impedimentos-actualizada-s3) 
 ##
 ## 🛠️ Herramientas y Técnicas
 
 - **Daily Standup**  
   Esta reunión para nosotros ya se convirtió en una costumbre, ya que esta ocurre todos los días a las 11 pm, aquí se hablan de las conocidas 3 preguntas, quizas al terminar estos 15 se puede seguir conversando sobre más puntos del software u otros temas relevantes para el desarrollo del proyecto
-  ![Reunión del equipo Scrum](/REUNION25-04.JPG)  
+  ![Reunión del equipo Scrum](/REUNION02-06.JPG)  
 - **Tres preguntas diarias**  
   Estas son las preguntas para saber como está yendo el equipo de desarrollo con respecto al trabajo pendiente o al que se les fue asignado, también sirve para reconocer posibles riesgos o impedimentos y así solucionarlos o mitigarlos de una manera más rápida y eficiente.
   ![Las tres preguntas](/tresP.jpg)      
@@ -1176,9 +1176,7 @@ Gracias a la reunión con el stakeholder se añadieron nuevas historias y tareas
   En esta revisión el Product Owner reachaza o acepta las historias de usuario, estas tienen que cumplir con los criterios de aceptación y terminado; esto se puede hacer apenas se termine con las historias o durante una reunión de revisión del sprint convocada al final de cada sprint, en nuestro caso internamente nuestro Product Owner aprobó tanto  las historias como el sprint en su totalidad, ya que se cumplió con todos los criterios y el software es completamente funcional en producción.  
 - **Reuniones de revisión del Sprint**  
   Teniendo ya la aceptación de las historias de usuario por parte del Product Owner, se realizará una reunión más orientada a presentar este entregable a los ineteresados del negocio, esto para que se revise el avance, funcionalidades añadidas, y refinación de otras historias; despúes de esta inspección se decide si hacer cambios o añadir nuevas ideas que tengan los interesados en un sprint posterior.  
-  ![Foto cliente uno](/fotoClienteU.jpg)  
-  ![Foto cliente dos](/fotoClienteD.jpg)  
-  ![Foto cliente tres](/fotoClienteT.jpg)   
+  [Evidencia de uso en la empresa](https://drive.google.com/file/d/1ZpHDKPhpZC5zXWL6pcN_6OjcaGg1bQEs/view?usp=sharing)   
 
 ## 📤 Salidas
   
