@@ -748,7 +748,520 @@ Estos son entregables enviables del proyecto que ya estan aprobados y por ende y
 - **Liberación del producto:** 
 ## 
 Ya que esta liberación del producto comobinó la compensación de la deuda técnica y la adición de funcionalidades, se escribirá un detallado para la libreación del producto, esta contendrá información importante para el personal de la empresa y notas más específicas o técnicas de la liberación.  
-[Liberación del producto](https://docs.google.com/document/d/18LkVWY08HI0VvlSlBjHSy-AGgc3wGUyB/edit?usp=drive_link&ouid=109001491989230177242&rtpof=true&sd=true)     
+[Liberación del producto](https://docs.google.com/document/d/18LkVWY08HI0VvlSlBjHSy-AGgc3wGUyB/edit?usp=drive_link&ouid=109001491989230177242&rtpof=true&sd=true)  
+
+--- 
+--- 
+
+<h1 id="sprint-3">SPRINT 3</h1>
+
+### CREAR HISTORIAS DE USUARIO
+
+## 📥 Entradas
+
+- **Equipo principal de Scrum**  
+  ##  
+  Nuestro equipo principal de Scrum y a quién se le asigno cada rol se describe en el punto [Equipo principal de Scrum](#equipo-principal-scrum) 
+##  
+- **Backlog priorizado del producto**  
+  ##  
+  El resultado de la creación del Backlog priorizado se puede ver a más detalle en el punto [Backlog priorizado al producto](#backlog-priorizado-producto) 
+##  
+- **Criterios de terminado**  
+  ##  
+  La ubicación en el proyecto y el detallado de estos criterios se visualizan en el punto [Criterios de Terminado](#criterios-terminado)
+##  
+- **Personajes**  
+  ##  
+  Para este caso se realizo un User Person para el usuario crítico importante como se vé en [User Person Gerente](#user-person)
+##
+- **Definición de listo**  
+  ##  
+  La ubicación en el proyecto y el detallado de estos criterios se visualizan en el punto [Definición de listo](#definicion-listo) 
+##
+## 🛠️ Herramientas y Técnicas
+
+- **Experiencia en la redacción de historias de usuario**  
+  ##  
+  Para que nuestro Product Owner pueda realizar la creación de las historias de usuario, el se baso en los conocimientos que adquirió cuando tenía cercania con el negocio en su momento, también en detalles que mencionó el gerente en la reunión que tuvimos para la creación de la visión del proyecto; pero también una parte importante para que se de este resultado esperado es haber seguido una metodología, la metodología INVEST, esta consiste en cumplir las seis características que dictan sus siglas, para por así tener historias de usuario de calidad.
+  ![Método INVEST](/INVEST.JPG)  
+
+
+## 📤 Salidas
+
+- <span id="historias-usuarios-s3"><strong>Historias de usuarios:</strong></span>
+## 
+Gracias a la metodología usada y la experiencia que tenia nuestro Product Owner, se logró crear una lista de historias de usuario que nos servirán para abarcar varios lanzamientos del proyecto en diferentes sprints; estas obviamente pertenecen a las épicas anteriormente.  
+![Lista de historias de Usuario](/HistoriasUsuarioS3.PNG)  
+##  
+Pero también se sabe que la historia debe tener un formato o un desglosamiento espcífico, esta basándose en las palábras "Cómo", "quiero" y "para"; en ese sentido se muestra como una de nuetras historias de usuario cuenta con este desglosamiento tan característico.  
+![Desglosamiento de historia de usuario](/DesglosamientoHistoriaS3.PNG) 
+- <span id="criterios-aceptacion-s3"><strong>Criterio de aceptación de historias de usuario:</strong></span>
+##
+Los criterios de aceptación de una historia de usuario son los más especificos que hay, esto a diferencia de los de listo o terminado; estos criterios explican que se espera de la historia de usuario, además de darle contexto al nuestro Product Owner para decidir si se completo satisfactoriamente.
+![Criterios de aceptación de la historia de usuario de busqueda](/CriteriosAceptacionUnoS3.PNG)  
+![Criterios de aceptación de la historia de usuario de ingreso de datos](/CriteriosAceptacionDosS3.PNG)  
+##
+---  
+### ESTIMAR HISTORIAS DE USUARIO
+
+## 📥 Entradas
+
+- **Equipo principal de Scrum**  
+  ##  
+  Nuestro equipo principal de Scrum y a quién se le asigno cada rol se describe en el punto [Equipo principal de Scrum](#equipo-principal-scrum) 
+##  
+- **Historias de usuarios**  
+  ##  
+  La lista de historias de usuarios que obtuvimos en su respectivo proceso, se detalla en el punto [Historias de usuarios](#historias-usuarios-s3) 
+##  
+- **Criterios de aceptación de historias de usuario**  
+  ##  
+  El detallado, donde se encuentran y ejemplos de estos se encuentran en el punto [Criterios de aceptación](#criterios-aceptacion-s3) 
+##
+## 🛠️ Herramientas y Técnicas
+
+- **Métodos de estimación**  
+  - ✓ Planning Poker  
+  ##  
+  En el caso del equipo se optó por utilizar la técnina del planning poker, esta decisión fue influenciada por el Scrum Master ya que consideró que el equipo se adaptaría rápido a esta técnina, además de ser didáctica, alentar al diálogo cuando no se llega a un puntaje promedio y por ser rápida en ejecución. Además de eso nos ayudó a que el equipo elija el rango de puntos de estimación con los que quería trabajar y así elegir unos que se acomoden más a las situaciones que se pueden presentar.  
+  ![Rangos de puntos de estimación](/RangosPuntosEstimacion.JPG)  
+  ##
+  La plataforma usada es Scrumpoker Online porque nos pareció idonea por su capacidad de traer el backlokg que teniamos en Jira, crear salas privadas y además de contar con estadísticas que median todo el proceso de estimación; este recurso se encuentra en [Scrumpoker Online](https://scrumpoker.online)  
+  ![Menu de Scrumpoker online](/MenuScrumpoker.JPG)  
+  ##
+  Los pasos para usar esta ténica son los siguientes, primero se establece un rango en donde puede estar los puntos de historia que se le puede dar a una, cuando comienza cada estimación se le mostrará una serie de cartas con los valores a los integrantes del equipo Scrum, ellos eligiran el valor que más concideren en relación al tiempo y el esfuerzo que esa historia de usuario puede acarrear para su completitud.  
+  ![Valores para estimar historias](/VALORES.JPG)  
+  ##
+  Después de que cada integrante elija una carta la ronda termina y se voltean todas, si los puntajes en las cartas de todos se parecen o son iguales se le asigna esa puntuación a la historia de usuario.  
+  REEMPLAZAR LA IMAGEN DE AQUÍ 👇 👇 👇
+  ![Poker con valores iguales](/TERCERPOKER.JPG)  
+  ##
+  Pero si no se llega a un acuerdo cada integrante que tenga los numeros distintos explicará el porque le puso un puntaje alto a la historia de usuario, esto para llegar a un acuerdo y poder estimar la historia en un punto medio para ambos o para que el equipo comprenda todos los angulos de la historia de usuario, después de la charla se vuelve a iniciar  otra ronda de poker hasta que se llegue a un acuerdo.  
+  REEMPLAZAR LA IMAGEN DE AQUÍ 👇 👇 👇
+  ![Poker con valores distintos](/PokerValorDistinto.JPG) 
+ 
+
+## 📤 Salidas
+
+- <span id="historias-usuarios-estimadas-s3"><strong>Historias de usuario estimadas:</strong></span>
+## 
+Gracias al proceso de estimación de las historias de usuario, podemos ya tener todas con sus puntajes y considerarlas historias de usuario estimadas, recordar que el valor de estas representan el esfuerzo y tiempo que se requiere completarlas
+![Lista de historias estimadas](/HistoriasEstimadasS3.PNG)  
+## 
+---  
+### COMPROMETER HISTORIAS DE USUARIO
+
+## 📥 Entradas
+
+- **Equipo principal de Scrum**  
+  ##  
+  Nuestro equipo principal de Scrum y a quién se le asigno cada rol se describe en el punto [Equipo principal de Scrum](#equipo-principal-scrum) 
+##  
+- **Historias de usuario estimadas**  
+  ##  
+  La lista de historias de usuarios estimadas y sus puntos de historia con los que se estimaron, se detalla en el punto [Historias de usuarios estimadas](#historias-usuarios-estimadas-s3) 
+##  
+- **Duración del Srpint**  
+  ##  
+  La duración de los sprints, fechas de inicio y finalización se encuentran en el punto [Duración del sprint](#duracion-sprint) 
+##
+## 🛠️ Herramientas y Técnicas
+
+- **Reuniones de planificación del sprint**  
+  En en este  caso el equipo principal de Scrum se reunió para realizar la elección de las historias de usuario y sus respectivas tareas que desarrollará en el sprint 3, en esta reunión el equipo se comprometió a entregar un subconjunto de historias que previamente se priorizaron y estimaron, se eligieron las historias más críticas para este caso.  
+  REEMPLAZAR LA IMAGEN DE AQUÍ 👇 👇 👇  
+  ![Reunión del equipo Scrum](/REUNION25-04.JPG)  
+ 
+
+## 📤 Salidas
+
+- <span id="historias-usuarios-comprometidas-s3"><strong>Historias de usuario comprometidas:</strong></span>
+## 
+Habiendo pasado por el proceso anterior, obtendremos una lista de historias de usuarios a los que el equipo Scrum se compromete a finalizar en el Sprint correspondiente, esta será dependiendo de lo urgente que  sea la historia o que tanto valor le retornará a la empresa.
+![Historias de usuario comprometidas](/HistoriasComprometidasS3.PNG)  
+- <span id="backlog-sprint-s3"><strong>Backlog del sprint actualizado:</strong></span>
+## 
+Y obvio teniendo ya las historias comprometidas, el backlog del Sprint será actualizado, ya que ahora se tendrán las historias que se tendran en todo este Sprint, así como se ve en la siguiente imagen  
+![Backlog del Sprint Actualizado1](/backlogSprintActualizadoP1S3.PNG)  
+![Backlog del Sprint Actualizado2](/backlogSprintActualizadoP2S3.PNG) 
+- **Scrumboard:** 
+## 
+Ya que se tendrán las historias de usuario necesarias para que este Sprint comience, debemos tener una herramienta que nos ayude a dar seguimiento al proyecto, al desarrollo del trabajo de estas y a como evolucionan en el tiempo que dure el sprint; para esto nos serviremos del Scrumboard ya que por este medio el equipo Scrum cambiará de estado las historias y tareas correspondientes de manera facil y ordenada.  
+![Scrumboard](/ScrumboardS3.PNG)  
+##
+---  
+### IDENTIFICAR TAREAS
+
+## 📥 Entradas
+
+- **Equipo principal de Scrum**  
+  ##  
+  Nuestro equipo principal de Scrum y a quién se le asigno cada rol se describe en el punto [Equipo principal de Scrum](#equipo-principal-scrum) 
+##  
+- **Historias de usuario comprometidas**  
+  ##  
+  La lista de historias de usuarios comprometidas y su orden en el backlog del Sprint, se detalla en el punto  
+  [Historias de usuario comprometidas](#historias-usuarios-comprometidas-s3) 
+##  
+- **Criterios de aceptación de historias de usuario**  
+  ##  
+  El detallado, donde se encuentran y ejemplos de estos se encuentran en el punto [Criterios de aceptación](#criterios-aceptacion-s3) 
+##
+## 🛠️ Herramientas y Técnicas
+
+- **Reuniones de planificación del sprint**  
+  En en este  caso el equipo principal de Scrum se reunió para realizar la identificación de las tareas de cada historia de usuario que se desarrollará en el sprint 3, en esta reunión el equipo sirviendose de las historias de usuario comprometidas identifican una serie de actividades que nos servirá desglosar para que se pueda completar la historia de usuario.  
+  REEMPLAZAR LA IMAGEN DE AQUÍ 👇 👇 👇
+  ![Reunión del equipo Scrum](/REUNION25-04.JPG)  
+ 
+
+## 📤 Salidas
+
+- <span id="lista-tareas-s3"><strong>Lista de tareas:</strong></span>
+## 
+Habiendo pasado por el proceso anterior, obtendremos una lista de tareas, estas tareas ayudarán al equipo a terminar o dar por completadas las historias de usuario; ya que desglosan el problema en apartado más pequeños. Ahora ya al tener estas tareas dentro de cada historia de usuario, esta debe actualizar sus criterios de aceptación integrando de alguna manera a las tareas dentro de ella.
+![Tareas del Sprint 3 parte 1](/tareasS3.PNG)  
+![Tareas del Sprint 3 parte 2](/tareasP2S3.PNG)  
+![Tareas del Sprint parte 3](/tareasP3S3.PNG)  
+- **Scrumboard actualizado:** 
+## 
+En primera instancia se tenia a las historias de usuario solas en el Scrumboard, pero depués del proceso anterior todas las tareas dentro de sus respectivas historias de usuario se añadiran al Scrumboard, esto ya que no solo se necesitará un seguimiento a las historias, sino también a las tareas que componene cada una de estas.
+![Scrumboard actualizado](/ScrumboardActuS3.PNG)  
+##
+---  
+### ESTIMAR TAREAS
+
+## 📥 Entradas
+
+- **Equipo principal de Scrum**  
+  ##  
+  Nuestro equipo principal de Scrum y a quién se le asigno cada rol se describe en el punto [Equipo principal de Scrum](#equipo-principal-scrum) 
+##  
+- **Lista de tareas**  
+  ##  
+  La lista de tareas identificadas y como se ve en el backlog del Sprint, se detalla en el punto [Lista de tareas](#lista-tareas-s3) 
+##  
+- **Criterios de aceptación de historias de usuario**  
+  ##  
+  El detallado, donde se encuentran y ejemplos de estos se encuentran en el punto [Criterios de aceptación](#criterios-aceptacion-s3) 
+##
+## 🛠️ Herramientas y Técnicas
+
+- **Reuniones de planificación del sprint**  
+  En en este  caso el equipo principal de Scrum se reunió para estimar las tareas que se identificaron en el proceso anterior, en esta reunión el equipo sirviendose de los criterios de estimación y de un método en específico estimará cada tarea; esta estimación está relacionada al esfuerzo y tiempo que el equipo Scrum percibe sobre la tarea en específico.  
+  REEMPLAZAR LA IMAGEN DE AQUÍ 👇 👇 👇
+  ![Reunión del equipo Scrum](/REUNION25-04.JPG)  
+- **Criterios de estimación**  
+  Para este momento los criterios de estimación fueron el esfuerzo que se requerira completar la tarea y también  el tiempo que se requiera, la combinación de estos dos criterios será visibilizada como puntos de historia, estos estarán dentro de un rango para que el equipo pueda escoger corrrectamente y de manera rápida.  
+  ![Rango de puntos para estimación](/listaPuntosH.JPG)  
+- **Métodos de estimación**  
+  Para esta estimación en específico, osea para la estimación de las tareas, se usará un método un poco más rápido que en el caso de las histroias de usuario, ya que en relación con las historias de usuario, las tareas son mucho más abundantes.  
+  Dado este dato se utilizará el método de estimación "One by one estimation", el cual consiste en mostrar cada tarea identificada y el equipo dará un puntaje dentro del rango anterior, y para sacar el puntaje que corresponderá a la tarea, se sacará un promedio de los puntajes que ortogaron los participantes. 
+  ![Promediando los puntajes](/estimacionTS3.PNG)      
+ 
+
+## 📤 Salidas
+
+- **Lista de tareas actualizadas:** 
+## 
+Al terminar de tratar las tareas con los criterios y métodos anteriores, se modificará la lista de tareas que teniamos del proceso anterior, ahora estas tendrán un puntaje a su derecha indicando sus estimación en puntos de historia; esta estimación se sumará a la estimación de las historias de usuario y completarán el 100% de estimación del Sprint
+![Tareas estimadas](/tareasES3.PNG)  
+- <span id="scrumboard-actualizado-s3"><strong>Scrumboard actualizado:</strong></span>
+## 
+En primera instancia se tenia a las historias de usuario solas en el Scrumboard, luego se añadieron las tareas identificadas para cada historia de usuario, ahora a todo esto se debe actualizar estas tareas, ya que al estar estimadas se debería ver reflejado los puntos de historia que vale cada tarea e historia.
+![Scrumboard actualizado tareas estimadas](/tareasEScrumboardS3.PNG)  
+##
+---  
+### ACTUALIZAR EL BACKLOG DEL SPRINT
+
+## 📥 Entradas
+
+- **Equipo principal de Scrum**  
+  ##  
+  Nuestro equipo principal de Scrum y a quién se le asigno cada rol se describe en el punto [Equipo principal de Scrum](#equipo-principal-scrum) 
+##  
+- **Lista de tareas**  
+  ##  
+  La lista de tareas identificadas y como se ve en el backlog del Sprint, se detalla en el punto [Lista de tareas](#lista-tareas-s3) 
+##  
+- **Duración del sprint**  
+  ##  
+  La duración de los sprints, fechas de inicio y finalización se encuentran en el punto [Duración del sprint](#duracion-sprint-s3) 
+##
+- **Backlog del sprint**  
+  ##  
+  La composición de historias de usuario y a la vez que una descripción de este se encuentra en el punto [Backlog del sprint](#backlog-sprint-s3) 
+##  
+- **Scrumboard**  
+  ##  
+  Ya que en los ultimos procesos estabamos añadiendole varias cosas, estas adiciones y su estado final se puede ver en el punto [Scrumboard](#scrumboard-actualizado-s3) 
+##
+## 🛠️ Herramientas y Técnicas
+
+- **Reuniones de planificación del sprint**  
+  En en este  caso el equipo principal de Scrum se reunió para ya no solo comprometer las historias o tareas, sino también para elegir específicamente quien se encargará de que historia, este proceso se agilizará ya que se tienen estimadas tanto historias como tareas, así los integrantes elegirán sus historias correspondientes basadas en los puntos de historias.
+  ![Historias de usuario escogidas por el equipo](/eleccionHS3.PNG)    
+
+## 📤 Salidas
+
+- **Backlog del sprint actualizado:** 
+## 
+Al terminar este proceso tendremos muchas adiciones en el backlog del sprint, historias, tareas, puntos de historia, asignaciones de historias, etc; en este sentido el backlog del sprint se mostrará en completitud, tal cual se ve en la siguiente imagen; en esta están resaltadas varios puntos, uno representa cuanto vale en puntos de usuario el sprint completo, otro representa la estimación de una tarea, otro representa la estimación de una historia de usuario y por último se representa a la asignación que tiene una historia de usuario.
+![Backlog del sprint actualizado](/backlogSprintAS3.PNG)  
+- **Scrumboard actualizado:** 
+## 
+Tanto como el backlog del sprint, el scrumboard también sufrira varias actualizaciones, en este caso se tiene que resaltar que se añadieron muchas historias de usuario por confusión de fechas de fin de sprint, así que se esta priorizando de manera quirurquija los tareas e historias; a la vez que en este tablero también se expresa todo lo que en el backlog, estimación, historias, tareas, etc.
+![Scrumboard actualizado final](/scrumboardActualizadoS3.PNG)  
+
+- **Sprint Burndown o Burnup:** 
+## 
+El gráfico de quemado de trabajo o mejor conocido como gráfico de trabajo pendiente nos servirá para tener un seguimiento del trabajo que no se está llevando a cabo y en base a eso tomar las medidas necesarias.  
+Si se está trabajando con Jira para gestionar el proyecto como es en nuestro caso, la ubicación de este gráfico se encuentra en la pestaña de informes y seleccionando el cuadro resaltado.
+![Ubicacion Sprint Burndown Chart](/unicacionSB.JPG)  
+##  
+Ya estando ahí observaremos una gráfica que debería tener una línea guía y una línea de carga de trabajo (se puede expresar en puntos de historia, recuento de actividades o tiempo) que falta para completar el sprint. Esta gráfica nos sirve para ver si nos estamos apegando a la línea guía o esta psando otra cosa, la línea guía es el caso ideal de como debería descender la carga de trabajo durante todo el sprint.  
+![Sprint Burndown Chart](/SBGraficaS3.PNG)  
+##  
+Los ejes como se ve en la imagen representan los puntos de historia (eje X), y el tiempo en el que se realizará el sprint (eje Y)  
+Por último si queremos hacer una comparación de gráficos entre este y su contraparte el Sprint Burnup Chart, veremos que este último se centra más en el trabajo realizado en vez que en el pendiente, esto se evidencia más en la siguiente imagen.  
+![Sprint Burnup Chart](/SBUGraficaS3.PNG)  
+##
+---  
+### CREAR ENTREGABLES
+
+## 📥 Entradas
+
+- **Equipo principal de Scrum**  
+  ##  
+  Nuestro equipo principal de Scrum y a quién se le asigno cada rol se describe en el punto [Equipo principal de Scrum](#equipo-principal-scrum) 
+##  
+- **Backlog del sprint**  
+  ##  
+  La composición de historias de usuario y a la vez que una descripción de este se encuentra en el punto [Backlog del sprint](#backlog-sprint-s3) 
+##  
+- **Scrumboard**  
+  ##  
+  Ya que en los ultimos procesos estabamos añadiendole varias cosas, estas adiciones y su estado final se puede ver en el punto [Scrumboard](#scrumboard-actualizado-s3) 
+##  
+- **Lista de impedimentos**  
+  ##  
+  Esta lista es la enumeración de obstáculos o barreras que reducen la productividad del equipo, las cuales si no se tratan a tiempo generarán un porblema directo al equipo principal de Scrum.  
+  Los que están listados se eligieron porque en el trasncurso del desarrollo del proyecto afectaron a la realización de este, tanto en capacidades ténicas, de conocimientos, gestión y hasta de obtención de datos.
+  En nuestro caso esta ubicado en el mismo lugar que los criterios de terminado y aceptación.  
+  ![Lista de impedimentos ubicación](/impeU.JPG)  
+  ![Lista de impedimentos](/impeS3.PNG)
+##
+## 🛠️ Herramientas y Técnicas
+
+- **Experiencias del equipo**  
+  En este punto el equipo completo de Scrum trae consigo experiencias de trabajos pasados, tanto personales, grupales, educativos o hasta profesionales; esto nos da una experiencia necesaria para poder determinar las mejores formas de convertir elementos del backlog priorizado del producto en productos terminados. Dicho esto se puede resaltar la experiencia más reciente que es hacer todo el ciclo de desarrollo de un sistema en modo cascada o de manera predictiva.
+  ![Equipo de desarrollo elite](/equipoEliteS3.jpeg)    
+
+## 📤 Salidas
+
+- <span id="entregables-sprint-s3"><strong>Entregables del Sprint:</strong></span> 
+## 
+En el entregable de este sprint se piensa entregar varias funcionalidades que aporten valor a la empresa, ya que este software está orientado a la gestión de merma, la vista gráfica de esta por proyecto ayuda demasiado a la trazabilidad e identificación de puntos de fuga, a la vez que su exportación para mostrarlo a trabajadores es mucho más facil. A la vez no se tiene que olvidar la deuda ténica que se tiene que solucionar si o sí para este sprint.  
+Dado todo esto la fecha límite para terminar de relizar este entregable es el 14 del mes de mayo, como se ve en la siguiente imagen.
+![Fecha límite para hacer la entrega](/finSprint.JPG)  
+- **Scrumboard actualizado:** 
+## 
+Mientras se realicen los entregables, los estados tanto de tareas e historias de usuario irán cambiando; esto se podrá hacer de manera facil en el Scrumboard ya que el equipo siempre tiene acceso a este y podrá ver las historias y tareas designadas a ellos, y por consecuencia este tablero se irá actualizando de manera natural.
+![Scrumboard](/Scrumboard.JPG)  
+- <span id="lista-impedimentos-actualizada"><strong>Lista de impedimentos actualizada:</strong></span> 
+## 
+Durante el transcurso del desarrollo del entregable los componenetes de esta lista se irán resolviendo y naturalmente identificaremos otros, lo importante es tener la lista actualizada y revisada constantemente.
+![Lista de impedimentos actualizada](/impeA.JPG)  
+##
+---  
+### REALIZAR EL DAILY STANDUP
+
+## 📥 Entradas
+
+- **Equipo principal de Scrum**  
+  ##  
+  Nuestro equipo principal de Scrum y a quién se le asigno cada rol se describe en el punto [Equipo principal de Scrum](#equipo-principal-scrum) 
+##  
+- **Scrum Master**  
+  ##  
+  Cómo sabemos, en representación de este rol estará presente nuestro compañero Rodrigo Melecio Flores Mayta 
+##  
+- **Scrumboard**  
+  ##  
+  Ya que en los ultimos procesos estabamos añadiendole varias cosas, estas adiciones y su estado final se puede ver en el punto [Scrumboard](#scrumboard-actualizado) 
+##  
+- **Lista de impedimentos**  
+  ##  
+  El detallado, donde se encuentran y su importancia se detallan en el punto [Lista de impedimentos](#lista-impedimentos-actualizada) 
+##
+## 🛠️ Herramientas y Técnicas
+
+- **Daily Standup**  
+  Esta reunión para nosotros ya se convirtió en una costumbre, ya que esta ocurre todos los días a las 11 pm, aquí se hablan de las conocidas 3 preguntas, quizas al terminar estos 15 se puede seguir conversando sobre más puntos del software u otros temas relevantes para el desarrollo del proyecto
+  ![Reunión del equipo Scrum](/REUNION25-04.JPG)  
+- **Tres preguntas diarias**  
+  Estas son las preguntas para saber como está yendo el equipo de desarrollo con respecto al trabajo pendiente o al que se les fue asignado, también sirve para reconocer posibles riesgos o impedimentos y así solucionarlos o mitigarlos de una manera más rápida y eficiente.
+  ![Las tres preguntas](/tresP.jpg)      
+
+## 📤 Salidas
+  
+- **Scrumboard actualizado:** 
+## 
+Ya que en los ultimos procesos estabamos añadiendole varias cosas, estas adiciones y su estado final se puede ver en el punto [Scrumboard](#scrumboard-actualizado)  
+- **Lista de impedimentos actualizada:** 
+## 
+El detallado, donde se encuentran y su importancia se detallan en el punto [Lista de impedimentos](#lista-impedimentos-actualizada)
+- **Sprint Burndown Chart o Burnup actualizado:** 
+## 
+El sprint Burndown Chart se tiene que ir actualizando conforme se desarrolle el entregable, también por si se identifican historias o tareas mal estimadas, etc. Si este gráfico indica que el equipo se está estancando en un punto o no avanza por buen camino, es responsabilidad del Scrum master identificar el obstáculo e intentar resolverlo.  
+##
+---  
+### REFINAR EL BACKLOG PRIORIZADO DEL PRODUCTO
+
+## 📥 Entradas
+
+- **Equipo principal de Scrum**  
+  ##  
+  Nuestro equipo principal de Scrum y a quién se le asigno cada rol se describe en el punto [Equipo principal de Scrum](#equipo-principal-scrum) 
+##  
+- **Backlog priorizado del producto**  
+  ##  
+  El resultado de la creación del Backlog priorizado se puede ver a más detalle en el punto [Backlog priorizado al producto](#backlog-priorizado-producto)
+##  
+- **Interesados del negocio**  
+  ##  
+  La lista completa de interesados tabulada de manera ordenada se puede visualizar en [Interesados del Negocio](#interesados-negocio) 
+##  
+## 🛠️ Herramientas y Técnicas
+
+- **Reunión de revisión del backlog priorizado del producto**  
+  Esta reunión fue netamente entre el Product Owner y el stakeholder principal que es el gerente de la empresa, esta reunión se dió ya que se iba a realizar una presentación del software para la empresa con la finalidad de su implementación ya de manera real. Gracias a esto se obtuvo más información sobre las historias y hacia donde debemos dirigir los entregables futuros y puntos a afinar de este.     
+
+## 📤 Salidas
+  
+- **Backlog priorizado del producto actualizado:** 
+## 
+Gracias a la reunión con el stakeholder se añadieron nuevas historias y tareas al backlog priorizado del producto, además de que se añadiran otras historias adicionales, afinar las que se agregaron y las que vendrán a futuro.  
+![Backlog refinado](/backlogPRefinado.JPG)  
+##
+---  
+### DEMOSTRAR Y VALIDAR SPRINT
+
+## 📥 Entradas
+
+- **Equipo principal de Scrum**  
+  ##  
+  Nuestro equipo principal de Scrum y a quién se le asigno cada rol se describe en el punto [Equipo principal de Scrum](#equipo-principal-scrum) 
+##  
+- **Entregables del Sprint**  
+  ##  
+  Cual es el alcance, el enfoque y el detallado de estos se dan en el punto [Entregables del Sprint](#entregables-sprint) 
+##  
+- **Backlog del sprint**  
+  ##  
+  La composición de historias de usuario y a la vez una descripción de este se encuentra en el punto [Backlog del sprint](#backlog-sprint) 
+##
+- **Criterios de terminado**  
+  ##  
+  La ubicación en el proyecto y el detallado de estos criterios se visualizan en el punto [Criterios de Terminado](#criterios-terminado)
+##  
+- **Criterios de aceptación de historias de usuario**  
+  ##  
+  El detallado, donde se encuentran y ejemplos de estos se encuentran en el punto [Criterios de aceptación](#criterios-aceptacion) 
+##
+## 🛠️ Herramientas y Técnicas
+
+- **Aceptación o rechazo de las historias de usuario**  
+  En esta revisión el Product Owner reachaza o acepta las historias de usuario, estas tienen que cumplir con los criterios de aceptación y terminado; esto se puede hacer apenas se termine con las historias o durante una reunión de revisión del sprint convocada al final de cada sprint, en nuestro caso internamente nuestro Product Owner aprobó tanto  las historias como el sprint en su totalidad, ya que se cumplió con todos los criterios y el software es completamente funcional en producción.  
+- **Reuniones de revisión del Sprint**  
+  Teniendo ya la aceptación de las historias de usuario por parte del Product Owner, se realizará una reunión más orientada a presentar este entregable a los ineteresados del negocio, esto para que se revise el avance, funcionalidades añadidas, y refinación de otras historias; despúes de esta inspección se decide si hacer cambios o añadir nuevas ideas que tengan los interesados en un sprint posterior.  
+  ![Foto cliente uno](/fotoClienteU.jpg)  
+  ![Foto cliente dos](/fotoClienteD.jpg)  
+  ![Foto cliente tres](/fotoClienteT.jpg)   
+
+## 📤 Salidas
+  
+- <span id="historias-usuario-aceptadas"><strong>Historias de usuario aceptadas:</strong></span> 
+## 
+Gracias a estas dos reuniones nosotros tendremos un grupo de historias que cumplen con sus criterios de aceptación, terminado, y que los interesados del negocio les hayan dado el visto bueno. Teniendo este grupo de historias que cumplen con todo esto finalmente el Product Owner les dará la aceptación formal. Así en la siguiente imagen se muestran las historias de usuario que fueron aceptadas formalmente por nuestro product Owner ya que oasaron por todos los controles de calidad y evaluaciones descritos anteriormente.
+![Historias aceptadas formalmente](/histiriasAF.JPG)  
+##
+---  
+### RETROSPECTIVA DEL SPRINT
+
+## 📥 Entradas
+
+- **Scrum Master**  
+  ##  
+  Cómo sabemos, en representación de este rol estará presente nuestro compañero Rodrigo Melecio Flores Mayta
+##  
+- **Equipo Scrum**  
+  ##  
+  Quienes lo conforman, cuales son sus aptitudes y más se ve detalladamente en el punto [Equipo Scrum](#equipo-scrum) 
+##  
+- **Salidas del proceso Demostrary validar el sprint**  
+  ##  
+  En este caso la salida que tuvimos se llamó "Historias de usuario aceptadas" y se puede ver su contenido en el punto [Historias de usuario aceptadas](#historias-usuario-aceptadas)
+##
+## 🛠️ Herramientas y Técnicas
+
+- **Reunión de retrospectiva del Sprint**  
+  Esta reunión es el último paso del sprint y por ende es importante, aquí se reune todo el equipo scrum principal y se dialoga sobre lo que salió bien, ambitos a implementar o de plano cosas que ya no hay que hacer; para esto se requiere que alguíen sirva de secretario y documente todas estas discusiones; para hacer esto de manera más didactica nos servimos de una técnica llamada "Start-Stop-Continue", la cuál hace referencia a los tres elementos específicos en los cuales nos centraremos en este reunión.  
+  ![Start-Stop-Continue](/SSC.JPG)   
+
+
+## 📤 Salidas
+  
+- **Mejoras accionables acordadas:** 
+## 
+Esta serie de mejoras son el resultado de la reunión previa, ya que se elborarán para que el equipo pueda hacer frente a sus problemas y mejorar los procesos en futuros sprints; en la lista que se muestra en la imagen, se seleccionaron las mejoras más críticas para poder listarlas y tomarlas en cuenta en sprints venideros
+![Mejoras accionables acordadas](/mejoresAA.JPG)  
+##  
+---  
+### ENVIAR ENTREGABLES
+
+## 📥 Entradas
+
+- **Product Owner**  
+  ##  
+  Cómo sabemos, en representación de este rol estará presente nuestro compañero Hubert Jared Jimenez Quispe
+##  
+- **Interesados del negocio**  
+  ##  
+  La lista completa de interesados tabulada de manera ordenada se puede visualizar en [Interesados del Negocio](#interesados-negocio)
+##  
+- **Entregables aceptados**  
+  ##  
+  Los entregables aceptados van muy de la mano con las historias aceptadas formalmente por el Product Owner, porque son los entregables que creamos pero asociados a las historias antes mencionadas, estas se pueden ver en el punto [Historias de usuario aceptadas](#historias-usuario-aceptadas).
+  Para los entregables de este Sprint, tendremos 2 funcionalidades y toda la compensación de la deuda técnica generada en el anterior Sprint.
+##  
+- **Cronograma de planificación de liberación**  
+  ##  
+  Con respecto al cornograma de planificación, este se estableció al inicio del proyecto, con rangos de fechas pra los sprints y duración de estos, a la vez de que en cada finalización de un sprint se estaría dando un entregable funcional al cliente, todo esto se puede ver a detalle en el punto [Cronograma de planificació](#cronograma-planificacion).
+##
+## 🛠️ Herramientas y Técnicas
+
+- **Métodos de despliegue organizacional**  
+  En el caso de la empresa Hilmart ya que el gerente ve todo el tema administrativo, el es el filtro y el dictamina los mecanismos de implementación que tiene que pasar la entrega desplegada para que se considere aprobada y pueda pasar a su liberación, esta revisión se dió a la par del proceso "DEMOSTRAR Y VALIDAR SPRINT" por eso se adjunta un par de fotos utilizadas en esa sección.
+  ![Foto cliente uno](/fotoClienteU.jpg)  
+  ![Foto cliente tres](/fotoClienteT.jpg)   
+
+
+## 📤 Salidas
+  
+- **Acuerdo de entregables funcionales:** 
+## 
+En este caso como estamos teniendo un acuerdo de practicas con su empresa y es un trato no tan formal la confirmación del acuerdo de entregables funcionales, se hizo mediante un correo, que el Product Owner envió a todo el equipo.
+![Correo de confirmación](/correoC.JPG)  
+- **Entregables funcionales:** 
+## 
+Estos son entregables enviables del proyecto que ya estan aprobados y por ende ya quedaron, terminados y autorizados; tambien incluye todo lo necesario para que el cliente pueda usar el producto. En nuestro caso se realizó un documento detallando las funcionalidades entregadas, en pequeño detallado de estas, un manual y su ubicación
+[Entregables funcionales](https://docs.google.com/document/d/1QuNXMwHn3aUOsS7iHH1hwTuml8Cj90jk/edit?usp=drive_link&ouid=109001491989230177242&rtpof=true&sd=true)  
+- **Liberación del producto:** 
+## 
+Ya que esta liberación del producto comobinó la compensación de la deuda técnica y la adición de funcionalidades, se escribirá un detallado para la libreación del producto, esta contendrá información importante para el personal de la empresa y notas más específicas o técnicas de la liberación.  
+[Liberación del producto](https://docs.google.com/document/d/18LkVWY08HI0VvlSlBjHSy-AGgc3wGUyB/edit?usp=drive_link&ouid=109001491989230177242&rtpof=true&sd=true)
 
 
 
