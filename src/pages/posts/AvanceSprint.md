@@ -1189,3 +1189,77 @@ Cabe recalcar que estas historias ya están siendo aprobadas antes de que termin
 ![Historias aceptadas formalmente parte 2](/histiriasAFP2S3.jpg)  
 ##
 ---  
+### RETROSPECTIVA DEL SPRINT
+
+## 📥 Entradas
+
+- **Scrum Master**  
+  ##  
+  Cómo sabemos, en representación de este rol estará presente nuestro compañero Rodrigo Melecio Flores Mayta
+##  
+- **Equipo Scrum**  
+  ##  
+  Quienes lo conforman, cuales son sus aptitudes y más se ve detalladamente en el punto [Equipo Scrum](#equipo-scrum) 
+##  
+- **Salidas del proceso Demostrary validar el sprint**  
+  ##  
+  En este caso la salida que tuvimos se llamó "Historias de usuario aceptadas" y se puede ver su contenido en el punto [Historias de usuario aceptadas](#historias-usuario-aceptadas-s3)
+##
+## 🛠️ Herramientas y Técnicas
+
+- **Reunión de retrospectiva del Sprint**  
+  Esta reunión es el último paso del sprint y por ende es importante, aquí se reune todo el equipo scrum principal y se dialoga sobre lo que salió bien, ambitos a implementar o de plano cosas que ya no hay que hacer; para esto se requiere que alguíen sirva de secretario y documente todas estas discusiones; para hacer esto de manera más didactica nos servimos de una técnica llamada "Start-Stop-Continue", la cuál hace referencia a los tres elementos específicos en los cuales nos centraremos en este reunión.  
+  ![Start-Stop-Continue](/SSCS3.JPG)   
+
+
+## 📤 Salidas
+
+- **Mejoras accionables acordadas:** 
+## 
+Esta serie de mejoras son el resultado de la reunión previa, ya que se elborarán para que el equipo pueda hacer frente a sus problemas y mejorar los procesos en futuros sprints; en la lista que se muestra en la imagen, se seleccionaron las mejoras más críticas para poder listarlas y tomarlas en cuenta en sprints venideros
+![Mejoras accionables acordadas](/mejoresAA.JPG)  
+##  
+---  
+### ENVIAR ENTREGABLES
+
+## 📥 Entradas
+
+- **Product Owner**  
+  ##  
+  Cómo sabemos, en representación de este rol estará presente nuestro compañero Hubert Jared Jimenez Quispe
+##  
+- **Interesados del negocio**  
+  ##  
+  La lista completa de interesados tabulada de manera ordenada se puede visualizar en [Interesados del Negocio](#interesados-negocio)
+##  
+- **Entregables aceptados**  
+  ##  
+  Los entregables aceptados van muy de la mano con las historias aceptadas formalmente por el Product Owner, porque son los entregables que creamos pero asociados a las historias antes mencionadas, estas se pueden ver en el punto [Historias de usuario aceptadas](#historias-usuario-aceptadas-s3).
+  Para los entregables de este Sprint, tendremos muchas funcionalidaddes añadidas y orientadas a los requerimientos del Gerente.
+##  
+- **Cronograma de planificación de liberación**  
+  ##  
+  Con respecto al cronograma de planificación, este se estableció al inicio del proyecto, con rangos de fechas para los sprints y duración de estos, a la vez de que en cada finalización de un sprint se estaría dando un entregable funcional al cliente, todo esto se puede ver a detalle en el punto [Cronograma de planificación](#cronograma-planificacion-s3).
+##
+## 🛠️ Herramientas y Técnicas
+
+- **Métodos de despliegue organizacional**  
+  En el caso de la empresa Hilmart ya que el gerente ve todo el tema administrativo, el es el filtro y el dictamina los mecanismos de implementación que tiene que pasar la entrega desplegada para que se considere aprobada y pueda pasar a su liberación, esta revisión se dió a la par del proceso "DEMOSTRAR Y VALIDAR SPRINT" por eso se adjunta un par de fotos utilizadas en esa sección.
+  ![Foto cliente uno](/fotoClienteU.jpg)  
+  ![Foto cliente tres](/fotoClienteT.jpg)   
+
+
+## 📤 Salidas
+
+- **Acuerdo de entregables funcionales:** 
+## 
+En este caso como estamos teniendo un acuerdo de practicas con su empresa y es un trato no tan formal la confirmación del acuerdo de entregables funcionales, se hizo mediante un correo, que el Product Owner envió a todo el equipo.
+![Correo de confirmación](/correoCS3.JPG)  
+- **Entregables funcionales:** 
+## 
+Estos son entregables enviables del proyecto que ya estan aprobados y por ende ya quedaron, terminados y autorizados; tambien incluye todo lo necesario para que el cliente pueda usar el producto. En nuestro caso se realizó un documento detallando las funcionalidades entregadas, en pequeño detallado de estas, un manual y su ubicación.
+[Entregables funcionales Sprint 3](https://drive.google.com/file/d/1orVwcj2bCJ4eb3LJfrge0I7trfuesLJV/view?usp=sharing)  
+- **Liberación del producto:** 
+## 
+Ya que esta liberación del producto combinó la compensación de la deuda técnica y la adición de funcionalidades, se escribirá un detallado para la libreación del producto, esta contendrá información importante para el personal de la empresa y notas más específicas o técnicas de la liberación.  
+[Liberación del producto Sprint 3](https://docs.google.com/document/d/1CgprCZropL-Tts85mzH3L42kBMZR1ima/edit?usp=sharing&ouid=109001491989230177242&rtpof=true&sd=true)
