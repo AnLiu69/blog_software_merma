@@ -1660,11 +1660,15 @@ El sprint Burndown Chart se tiene que ir actualizando conforme se desarrolle el 
 ## 🛠️ Herramientas y Técnicas
 
 - **Aceptación o rechazo de las historias de usuario**  
-  En esta revisión el Cliente (su representación) reachaza o acepta las historias de usuario, estas tienen que cumplir con los criterios de aceptación y terminado; esto se puede hacer apenas se termine con las historias o durante una reunión de revisión del sprint convocada al final de cada sprint, en nuestro caso internamente nuestro Product Owner aprobó tanto  las historias como el sprint en su totalidad, ya que se cumplió con todos los criterios y el software es completamente funcional en producción.  
+  En esta revisión el Cliente (su representación) reachaza o acepta las historias de usuario, estas tienen que cumplir con los criterios de aceptación y terminado; esto se puede hacer apenas se termine con las historias o durante una reunión de revisión del sprint convocada al final de cada sprint, en nuestro caso internamente nuestro Cliente (su representación) aprobó tanto  las historias como el sprint en su totalidad, ya que se cumplió con todos los criterios y el software es completamente funcional en producción.  
 #
 - **Reuniones de revisión del Sprint**  
   Teniendo ya la aceptación de las historias de usuario por parte del Cliente (su representación), se realizará una reunión más orientada a presentar este entregable al Cliente estratégico (Cliente real), esto para que se revise el avance, funcionalidades añadidas, y refinación de otras historias; despúes de esta inspección el Cliente (su representación) en conjunto con el Cliente estratégico (Cliente real) deciden si este entregable es está apto para su implementación.  
-  En nuestro caso se presentó todas las historias de usuarios planteadas para este sprint y se vio el visto bueno del Cliente estratégico (Cliente real) para que pueda pasarse a la implementación.    
+  En nuestro caso se presentó todas las historias de usuarios planteadas para este sprint y se vio el visto bueno del Cliente estratégico (Cliente real) para que pueda pasarse a la implementación.  
+  Esta presentación de las funcionalidades añadidas de este entegable se realizaron vía meet, ya que por un tema de disponibilidad el gerente tuvo que hacer un viaje fuera de Lima.  
+  ![Foto de reunión parte 1](/REUNIONPT103-07.JPG)  
+  ![Foto de reunión parte 2](/REUNIONPT203-07.JPG)  
+  ![Foto de reunión parte 3](/REUNIONPT303-07.JPG) 
 
 ## 📤 Salidas
   
@@ -1672,6 +1676,11 @@ El sprint Burndown Chart se tiene que ir actualizando conforme se desarrolle el 
 ## 
 Gracias a estas dos reuniones nosotros tendremos un grupo de historias que cumplen con sus criterios de aceptación, terminado, y que los interesados del negocio les hayan dado el visto bueno. Teniendo este grupo de historias que cumplen con todo esto finalmente el Cliente (su representación) les dará la aceptación formal. Así en la siguiente imagen se muestran las historias de usuario que fueron aceptadas formalmente por nuestro Cliente (su representación) ya que pasaron por todos los controles de calidad y evaluaciones descritos anteriormente.  
 ![Historias aceptadas formalmente](/histiriasAFP1S4.JPG)  
+##  
+- <span id="solicitud-cambio"><strong>Solicitud de cambio:</strong></span> 
+## 
+A raíz de estas reuniones también se generó una simulación de una solicitud de cambio, esta a partir de comentarios del cliente estratégico. Se realizó la documentación de esta en un formato formal, con su respectiva justificación, descripción, impacto, y las posibles historias de usuario que podrian surgir a causa de esta solicitud.  
+Todo esto se puede ver en el documento [Solicitud de cambio](https://drive.google.com/file/d/1_J0BCzWq-wyTvI8RIy1-T8VIUcV4EaII/view?usp=sharing) 
 ##
 ---  
 ### RETROSPECTIVA DEL SPRINT
@@ -1694,7 +1703,7 @@ Gracias a estas dos reuniones nosotros tendremos un grupo de historias que cumpl
 
 - **Reunión de retrospectiva del Sprint**  
   Esta reunión es el último paso del sprint y por ende es importante, aquí se reune todo el equipo scrum principal y se dialoga sobre lo que salió bien, ambitos a implementar o de plano cosas que ya no hay que hacer; para esto se requiere que alguíen sirva de secretario y documente todas estas discusiones; para hacer esto de manera más didactica nos servimos de una técnica llamada "Start-Stop-Continue", la cuál hace referencia a los tres elementos específicos en los cuales nos centraremos en este reunión.  
-  ![Start-Stop-Continue](/SSCS3.JPG)   
+  ![Start-Stop-Continue](/SSCS4.JPG)   
 
 
 ## 📤 Salidas
@@ -1702,7 +1711,7 @@ Gracias a estas dos reuniones nosotros tendremos un grupo de historias que cumpl
 - **Mejoras accionables acordadas:** 
 ## 
 Esta serie de mejoras son el resultado de la reunión previa, ya que se elborarán para que el equipo pueda hacer frente a sus problemas y mejorar los procesos en futuros sprints; en la lista que se muestra en la imagen, se seleccionaron las mejoras más críticas para poder listarlas y tomarlas en cuenta en sprints venideros
-![Mejoras accionables acordadas](/mejoresAA.JPG)  
+![Mejoras accionables acordadas](/mejoresAAS4.JPG)  
 ##  
 ---  
 ### ENVIAR ENTREGABLES
@@ -1719,7 +1728,7 @@ Esta serie de mejoras son el resultado de la reunión previa, ya que se elborar�
 ##  
 - **Entregables aceptados**  
   ##  
-  Los entregables aceptados van muy de la mano con las historias aceptadas formalmente por el Product Owner, porque son los entregables que creamos pero asociados a las historias antes mencionadas, estas se pueden ver en el punto [Historias de usuario aceptadas](#historias-usuario-aceptadas-s4).
+  Los entregables aceptados van muy de la mano con las historias aceptadas formalmente por el Cliente (su representación), porque son los entregables que creamos pero asociados a las historias antes mencionadas, estas se pueden ver en el punto [Historias de usuario aceptadas](#historias-usuario-aceptadas-s4).  
   Para los entregables de este Sprint, tendremos muchas funcionalidaddes añadidas y orientadas a los requerimientos del Gerente.
 ##  
 - **Cronograma de planificación de liberación**  
@@ -1730,19 +1739,22 @@ Esta serie de mejoras son el resultado de la reunión previa, ya que se elborar�
 
 - **Métodos de despliegue organizacional**  
   En el caso de la empresa Hilmart ya que el gerente ve todo el tema administrativo, el es el filtro y el dictamina los mecanismos de implementación que tiene que pasar la entrega desplegada para que se considere aprobada y pueda pasar a su liberación, esta revisión se dió a la par del proceso "DEMOSTRAR Y VALIDAR SPRINT" por eso se adjunta un par de fotos utilizadas en esa sección.  
+  ![Foto de reunión parte 2](/REUNIONPT203-07.JPG)  
+  ![Foto de reunión parte 3](/REUNIONPT303-07.JPG)  
 
 ## 📤 Salidas
 
 - **Acuerdo de entregables funcionales:** 
 ## 
-En este caso como estamos teniendo un acuerdo de practicas con su empresa y es un trato no tan formal la confirmación del acuerdo de entregables funcionales, se hizo mediante un correo, que el Product Owner envió a todo el equipo.
+En este caso como estamos teniendo un acuerdo de practicas con su empresa y es un trato no tan formal la confirmación del acuerdo de entregables funcionales, se hizo mediante un correo, que el Product Owner envió a todo el equipo.  
+![Correo de confirmación](/correoCS4.JPG) 
 - **Entregables funcionales:** 
 ## 
 Estos son entregables enviables del proyecto que ya estan aprobados y por ende ya quedaron, terminados y autorizados; tambien incluye todo lo necesario para que el cliente pueda usar el producto. En nuestro caso se realizó un documento detallando las funcionalidades entregadas, en pequeño detallado de estas, un manual y su ubicación.
-[Entregables funcionales Sprint 4](https://drive.google.com/file/d/1orVwcj2bCJ4eb3LJfrge0I7trfuesLJV/view?usp=sharing)  
+[Entregables funcionales Sprint 4](https://drive.google.com/file/d/1o6i451O3RyaR98vDGadJ4MwvtLjoRbW4/view?usp=sharing)  
 - **Liberación del producto:** 
 ## 
 Ya que esta liberación del producto combinó la compensación de la deuda técnica y la adición de funcionalidades, se escribirá un detallado para la libreación del producto, esta contendrá información importante para el personal de la empresa y notas más específicas o técnicas de la liberación.  
-[Liberación del producto Sprint 4](https://docs.google.com/document/d/1CgprCZropL-Tts85mzH3L42kBMZR1ima/edit?usp=sharing&ouid=109001491989230177242&rtpof=true&sd=true)  
+[Liberación del producto Sprint 4](https://drive.google.com/file/d/1GQYXPqdLQzKj70-d5xrzd0oxv0sTLNTw/view?usp=sharing)  
 
 ---
