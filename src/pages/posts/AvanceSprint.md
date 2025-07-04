@@ -1668,7 +1668,8 @@ El sprint Burndown Chart se tiene que ir actualizando conforme se desarrolle el 
   Esta presentación de las funcionalidades añadidas de este entegable se realizaron vía meet, ya que por un tema de disponibilidad el gerente tuvo que hacer un viaje fuera de Lima.  
   ![Foto de reunión parte 1](/REUNIONPT103-07.JPG)  
   ![Foto de reunión parte 2](/REUNIONPT203-07.JPG)  
-  ![Foto de reunión parte 3](/REUNIONPT303-07.JPG) 
+  ![Foto de reunión parte 3](/REUNIONPT303-07.JPG)
+  ![Foto de reunión parte 4](/REUNIONPT403-07.JPG) 
 
 ## 📤 Salidas
   
